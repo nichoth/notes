@@ -21,6 +21,7 @@
 
 ### CDN
 * [netlify](https://www.netlify.com/) &ndash; supports webhooks
+* [maxCDN](https://www.maxcdn.com/)
 
 ### others
 * [apiary](https://apiary.io/) &ndash; Rapid prototype and documentation generator for APIs. 
