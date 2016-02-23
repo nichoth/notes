@@ -34,6 +34,7 @@
 * [userapp](https://www.userapp.io/) &ndash; user management
 * [swiftype](https://swiftype.com/) &ndash; search
 * [cloudup](https://cloudup.com/) &ndash; content sharing
+* [zapier](https://zapier.com/) &ndash; connect different web services
 
 
 ## design
