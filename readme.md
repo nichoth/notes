@@ -28,6 +28,7 @@
 * [stripe](https://stripe.com)
 
 ### others
+* [postmark](https://postmarkapp.com/) &ndash; email
 * [apiary](https://apiary.io/) &ndash; Rapid prototype and documentation generator for APIs. 
 * [roots](http://roots.cx/) &ndash; static site generator (build tool)
 * [userapp](https://www.userapp.io/) &ndash; user management
