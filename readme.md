@@ -23,12 +23,15 @@
 * [netlify](https://www.netlify.com/) &ndash; supports webhooks
 * [maxCDN](https://www.maxcdn.com/)
 
+### payments
+* [snipcart](https://snipcart.com/) &ndash; online store
+* [stripe](https://stripe.com)
+
 ### others
 * [apiary](https://apiary.io/) &ndash; Rapid prototype and documentation generator for APIs. 
 * [roots](http://roots.cx/) &ndash; static site generator (build tool)
 * [userapp](https://www.userapp.io/) &ndash; user management
 * [swiftype](https://swiftype.com/) &ndash; search
-* [snipcart](https://snipcart.com/) &ndash; online store
 * [cloudup](https://cloudup.com/) &ndash; content sharing
 
 
@@ -43,3 +46,6 @@
 * [Building a static CMS](http://carrot.is/coding/static_cms)
 * [Static, a Revival](http://carrot.is/coding/static)
 * [Why Static Website Generators Are The Next Big Thing](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)
+* [Obama campaign's fundraising site](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/)
+* [An Introduction to Static Site Generators](An Introduction to Static Site Generators)
+* [New Healthcare.gov is Open, CMS-Free](https://developmentseed.org/blog/new-healthcare-gov-is-open-and-cms-free/)
