@@ -42,6 +42,9 @@
 ### type
 * Playfair display &ndash; google font, high contrast serif
 
+### css
+* [skeleton](http://getskeleton.com/) &ndash; vanilla css boilerplate
+
 
 ## articles
 
