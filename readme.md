@@ -37,6 +37,14 @@
 * [zapier](https://zapier.com/) &ndash; connect different web services
 * [moltin](https://moltin.com/) &ndash; ecommmerce. Inventory management, admin UI. Have to use their cart and stuff. 
 
+### amazon
+* S3 &ndash; Simple storage service. Object storage with a web UI. Pay as you go, no minimum.
+* cloudfront &ndash; CDN. Charged per gigabyte transfered.
+
+**static hosting**  
+Deploy to S3, use the amazon website to configure cloudfront.
+
+
 ## design
 
 ### type
@@ -54,3 +62,10 @@
 * [Obama campaign's fundraising site](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/)
 * [An Introduction to Static Site Generators](An Introduction to Static Site Generators)
 * [New Healthcare.gov is Open, CMS-Free](https://developmentseed.org/blog/new-healthcare-gov-is-open-and-cms-free/)
+
+
+## hard problems
+
+* cache invalidation
+* naming things
+* css vertical centering
