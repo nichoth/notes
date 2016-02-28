@@ -50,6 +50,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 
 ### type
 * Playfair display &ndash; google font, high contrast serif
+* Oswald &ndash; google font, sans-serif, news gothic like, see [http://davidtheclark.com/](http://davidtheclark.com/)
 
 ### css
 * [skeleton](http://getskeleton.com/) &ndash; vanilla css boilerplate
