@@ -25,8 +25,12 @@
 * [maxCDN](https://www.maxcdn.com/)
 
 ### payments
-* [snipcart](https://snipcart.com/) &ndash; online store
 * [stripe](https://stripe.com)
+
+### buy things
+* [snipcart](https://snipcart.com/) &ndash; online store
+* [styla](http://www.styla.com/) &ndash; some kind of store thing
+* [moltin](https://moltin.com/) &ndash; ecommmerce. Inventory management, admin UI. Have to use their cart and stuff. 
 
 ### others
 * [postmark](https://postmarkapp.com/) &ndash; email
@@ -36,7 +40,6 @@
 * [swiftype](https://swiftype.com/) &ndash; search
 * [cloudup](https://cloudup.com/) &ndash; content sharing
 * [zapier](https://zapier.com/) &ndash; connect different web services
-* [moltin](https://moltin.com/) &ndash; ecommmerce. Inventory management, admin UI. Have to use their cart and stuff. 
 
 ### amazon
 * S3 &ndash; Simple storage service. Object storage with a web UI. Pay as you go, no minimum.
