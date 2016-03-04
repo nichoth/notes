@@ -41,6 +41,7 @@
 * [swiftype](https://swiftype.com/) &ndash; search
 * [cloudup](https://cloudup.com/) &ndash; content sharing
 * [zapier](https://zapier.com/) &ndash; connect different web services
+* [known](https://withknown.com/) &ndash; publish to a bunch of different social sites without duplicating content
 
 ### amazon
 * S3 &ndash; Simple storage service. Object storage with a web UI. Pay as you go, no minimum.
