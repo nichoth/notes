@@ -58,6 +58,8 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * Oswald &ndash; google font, sans-serif, news gothic like, see [http://davidtheclark.com/](http://davidtheclark.com/)
 * [Italiana](https://www.google.com/fonts/specimen/Italiana) &ndash; google font. High contrast, display, only 1 weight.
 
+* [A Curated Collection of the 30 Best Google Fonts](https://www.typewolf.com/open-source-web-fonts)
+
 ### css
 * [skeleton](http://getskeleton.com/) &ndash; vanilla css boilerplate
 
