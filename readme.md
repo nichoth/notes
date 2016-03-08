@@ -56,7 +56,8 @@ Deploy to S3, use the amazon website to configure cloudfront.
 ### type
 * Playfair display &ndash; google font, high contrast serif
 * Oswald &ndash; google font, sans-serif, news gothic like, see [http://davidtheclark.com/](http://davidtheclark.com/)
-* [Italiana](https://www.google.com/fonts/specimen/Italiana) &ndash; google font. High contrast, display, only 1 weight.
+* [Italiana](https://www.google.com/fonts/specimen/Italiana) &ndash; google font. High contrast, display, deco like, only 1 weight.
+* [Josephine Slab](https://www.google.com/fonts/specimen/Josefin+Slab) &ndash; Google font, slab serif, 10 styles
 
 * [A Curated Collection of the 30 Best Google Fonts](https://www.typewolf.com/open-source-web-fonts)
 
