@@ -89,3 +89,4 @@ Deploy to S3, use the amazon website to configure cloudfront.
 test
 test
 test
+test
