@@ -21,7 +21,7 @@
 * [prismic](https://prismic.io/)
 
 ### CDN
-* [netlify](https://www.netlify.com/) &ndash; supports webhooks
+* [netlify](https://www.netlify.com/) &ndash; has webhooks
 * [maxCDN](https://www.maxcdn.com/)
 
 ### payments
@@ -42,6 +42,11 @@
 * [cloudup](https://cloudup.com/) &ndash; content sharing
 * [zapier](https://zapier.com/) &ndash; connect different web services
 * [known](https://withknown.com/) &ndash; publish to a bunch of different social sites without duplicating content
+
+
+### hosts
+[digital ocean](https://www.digitalocean.com)
+
 
 ### amazon
 * S3 &ndash; Simple storage service. Object storage with a web UI. Pay as you go, no minimum.
