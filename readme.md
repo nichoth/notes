@@ -86,3 +86,4 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * cache invalidation
 * naming things
 * css vertical centering
+test
