@@ -59,11 +59,14 @@ Deploy to S3, use the amazon website to configure cloudfront.
 ## design
 
 ### type
-* Playfair display &ndash; google font, high contrast serif
-* Oswald &ndash; google font, sans-serif, news gothic like, see [http://davidtheclark.com/](http://davidtheclark.com/)
+* [Playfair display](https://www.google.com/fonts/specimen/Playfair+Display) &ndash; high contrast serif, 6 styles
+* [Oswald](https://www.google.com/fonts/specimen/Oswald) &ndash; google font, sans-serif, news gothic like, 3 weights. see [http://davidtheclark.com/](http://davidtheclark.com/)
 * [Italiana](https://www.google.com/fonts/specimen/Italiana) &ndash; google font. High contrast, display, deco like, only 1 weight.
 * [Josephine Slab](https://www.google.com/fonts/specimen/Josefin+Slab) &ndash; Google font, slab serif, 10 styles
 * [Merriweather](https://www.google.com/fonts/specimen/Merriweather) &ndash; serif, 8 styles
+* [Lato](https://www.google.com/fonts/specimen/Lato) &ndash; sans-serif, 10 styles
+* [Muli](https://www.google.com/fonts/specimen/Muli) &ndash; geometric sans-serif with single story 'a' like futura
+* [Museo Sans Condensed](https://typekit.com/fonts/museo-sans-condensed) &ndash; 10 styles
 
 * [A Curated Collection of the 30 Best Google Fonts](https://www.typewolf.com/open-source-web-fonts)
 
