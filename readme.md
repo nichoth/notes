@@ -67,6 +67,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [Lato](https://www.google.com/fonts/specimen/Lato) &ndash; sans-serif, 10 styles
 * [Muli](https://www.google.com/fonts/specimen/Muli) &ndash; geometric sans-serif with single story 'a' like futura
 * [Museo Sans Condensed](https://typekit.com/fonts/museo-sans-condensed) &ndash; 10 styles
+* [Fira Sans 2](https://typekit.com/fonts/fira-sans-2) &ndash; really really thin sans serif
 
 * [A Curated Collection of the 30 Best Google Fonts](https://www.typewolf.com/open-source-web-fonts)
 
@@ -83,6 +84,15 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [Obama campaign's fundraising site](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/)
 * [An Introduction to Static Site Generators](An Introduction to Static Site Generators)
 * [New Healthcare.gov is Open, CMS-Free](https://developmentseed.org/blog/new-healthcare-gov-is-open-and-cms-free/)
+
+
+## javascript
+
+### little modules like in lodash
+
+* after
+* reduce
+
 
 
 ## hard problems
