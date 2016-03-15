@@ -7,6 +7,7 @@
 - [services](#services)
 - [design](#design)
 - [articles](#articles)
+- [javascript](#javascript)
 - [hard problems](#hard-problems)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -93,6 +94,24 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * after
 * reduce
 
+
+### es6
+
+
+**methods**
+```js
+var obj = {
+  foo: function() {},
+  bar: function() {}
+};
+
+// is the same as:
+
+var obj = {
+  foo() {},
+  bar() {}
+};
+```
 
 
 ## hard problems
