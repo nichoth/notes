@@ -93,6 +93,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 
 * after
 * reduce
+* deep-extend
 
 
 ### es6
