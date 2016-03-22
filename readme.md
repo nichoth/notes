@@ -5,9 +5,24 @@
 
 
 - [services](#services)
+  - [CMS](#cms)
+  - [CDN](#cdn)
+  - [payments](#payments)
+  - [buy things](#buy-things)
+  - [others](#others)
+  - [hosts](#hosts)
+  - [amazon](#amazon)
 - [design](#design)
+  - [type](#type)
+  - [css](#css)
 - [articles](#articles)
 - [javascript](#javascript)
+  - [little modules like in lodash](#little-modules-like-in-lodash)
+  - [little node tools](#little-node-tools)
+  - [es6](#es6)
+  - [DOM diffing](#dom-diffing)
+- [misc](#misc)
+  - [append only](#append-only)
 - [hard problems](#hard-problems)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
