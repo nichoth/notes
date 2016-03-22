@@ -22,7 +22,7 @@
 * [prismic](https://prismic.io/)
 
 ### CDN
-* [netlify](https://www.netlify.com/) &ndash; has webhooks
+* [netlify](https://www.netlify.com/) &ndash; easy webhooks
 * [maxCDN](https://www.maxcdn.com/)
 
 ### payments
@@ -42,7 +42,7 @@
 * [swiftype](https://swiftype.com/) &ndash; search
 * [cloudup](https://cloudup.com/) &ndash; content sharing
 * [zapier](https://zapier.com/) &ndash; connect different web services
-* [known](https://withknown.com/) &ndash; publish to a bunch of different social sites without duplicating content
+* [known](https://withknown.com/) &ndash; publish to a bunch of different social sites
 
 
 ### hosts
@@ -50,11 +50,14 @@
 
 
 ### amazon
-* S3 &ndash; Simple storage service. Object storage with a web UI. Pay as you go, no minimum.
+* S3 &ndash; "simple storage service". Object storage with a web UI. Pay as you go, no minimum.
 * cloudfront &ndash; CDN. Charged per gigabyte transfered.
 
 **static hosting**  
 Deploy to S3, use the amazon website to configure cloudfront.
+
+
+---------------------------------------
 
 
 ## design
@@ -77,6 +80,8 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [PostCSS the Future after Sass and Less](https://www.youtube.com/watch?v=73dl5dk9z4Q) &ndash; video, css preprocessor history, postcss design
 * [An Introduction To PostCSS](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/)
 
+--------------------------------------
+
 ## articles
 
 * [Building a static CMS](http://carrot.is/coding/static_cms)
@@ -87,6 +92,9 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [New Healthcare.gov is Open, CMS-Free](https://developmentseed.org/blog/new-healthcare-gov-is-open-and-cms-free/)
 
 
+------------------------------------
+
+
 ## javascript
 
 ### little modules like in lodash
@@ -95,9 +103,11 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * reduce
 * deep-extend
 
+### little node tools
+
+* brake -- throttle a stream with backpressure
 
 ### es6
-
 
 **methods**
 ```js
@@ -113,6 +123,34 @@ var obj = {
   bar() {}
 };
 ```
+
+
+### DOM diffing
+
+[morphdom](https://github.com/patrick-steele-idem/morphdom)
+
+Diff the DOM vs another DOM (no virtual DOM involved).
+
+Easier b/c *forms*. If the state in the DOM changes b/c it is mutated directly, that's fine. We don't need to preserve form state in the vdom.
+
+No effective perfomance loss vs vdom.
+
+
+------------------------
+
+
+## misc
+
+### append only
+
+Implementations of append only logs
+
+* [secure scuttlebutt](https://github.com/ssbc/docs)
+* [forkdb](https://github.com/substack/forkdb)
+* [hyperlog](https://github.com/mafintosh/hyperlog)
+
+
+-------------------------
 
 
 ## hard problems
