@@ -105,6 +105,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [Obama campaign's fundraising site](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/)
 * [An Introduction to Static Site Generators](An Introduction to Static Site Generators)
 * [New Healthcare.gov is Open, CMS-Free](https://developmentseed.org/blog/new-healthcare-gov-is-open-and-cms-free/)
+* [webapps of the future](https://github.com/substack/webapps-of-the-future) &ndash; "The door refused to open. It said, 'Five cents, please.'"
 
 
 ------------------------------------
@@ -121,6 +122,12 @@ Deploy to S3, use the amazon website to configure cloudfront.
 ### little node tools
 
 * brake -- throttle a stream with backpressure
+* cookie-cutter -- get and set cookies client side
+* monotonic-timestamp
+
+### auth
+* sodium
+* passport
 
 ### es6
 
@@ -163,6 +170,7 @@ Implementations of append only logs
 * [secure scuttlebutt](https://github.com/ssbc/docs)
 * [forkdb](https://github.com/substack/forkdb)
 * [hyperlog](https://github.com/mafintosh/hyperlog)
+* [append-only-torrent](https://github.com/substack/append-only-torrent)
 
 
 -------------------------
