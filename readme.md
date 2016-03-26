@@ -19,6 +19,7 @@
 - [javascript](#javascript)
   - [little modules like in lodash](#little-modules-like-in-lodash)
   - [little node tools](#little-node-tools)
+  - [auth](#auth)
   - [es6](#es6)
   - [DOM diffing](#dom-diffing)
 - [misc](#misc)
