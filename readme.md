@@ -126,6 +126,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * cookie-cutter -- get and set cookies client side
 * monotonic-timestamp
 * async-waterfall
+* curry
 
 ### auth
 * sodium
