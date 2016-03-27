@@ -127,6 +127,10 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * monotonic-timestamp
 * async-waterfall
 * curry
+* dom-css
+* testron -- CI for browser stuff
+* csjs & csjs-injectify
+* nets -- http requests
 
 ### auth
 * sodium
