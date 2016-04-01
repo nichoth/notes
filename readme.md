@@ -60,6 +60,7 @@
 * [zapier](https://zapier.com/) &ndash; connect different web services
 * [known](https://withknown.com/) &ndash; publish to a bunch of different social sites
 * [formkeep](https://formkeep.com) &ndash; forms
+* [apigee](http://apigee.com/) &ndash; API
 
 ### hosts
 [digital ocean](https://www.digitalocean.com)
@@ -95,6 +96,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [skeleton](http://getskeleton.com/) &ndash; vanilla css boilerplate
 * [PostCSS the Future after Sass and Less](https://www.youtube.com/watch?v=73dl5dk9z4Q) &ndash; video, css preprocessor history, postcss design
 * [An Introduction To PostCSS](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/)
+* [Grids with flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/grids/)
 
 --------------------------------------
 
