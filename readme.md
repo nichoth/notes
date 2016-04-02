@@ -9,6 +9,7 @@
   - [CDN](#cdn)
   - [payments](#payments)
   - [buy things](#buy-things)
+  - [storage / data](#storage--data)
   - [others](#others)
   - [hosts](#hosts)
   - [amazon](#amazon)
