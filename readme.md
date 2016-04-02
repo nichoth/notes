@@ -50,6 +50,13 @@
 * [moltin](https://moltin.com/) &ndash; ecommmerce. Inventory management, admin UI. Have to use their cart and stuff. 
 * [tictail](https://tictail.com/) &ndash; really good & easy, no code required, free except for payment processing
 
+
+### storage / data
+* [remotestorage.io](https://remotestorage.io/) &ndash; sync, offline
+* [kinto](http://kinto.readthedocs.org/en/latest/overview.html#why-use-kinto) &ndash; sync, offline
+* [hoodie](Hoodie) &ndash; offline, sync, facade for any backend
+
+
 ### others
 * [postmark](https://postmarkapp.com/) &ndash; email
 * [apiary](https://apiary.io/) &ndash; Rapid prototype and documentation generator for APIs. 
@@ -134,6 +141,24 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * testron -- CI for browser stuff
 * csjs & csjs-injectify
 * nets -- http requests
+
+#### logging
+* bole
+
+#### cli
+* configstore
+* rc
+* meow
+* yargs
+* [more](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
+
+#### pretty cli
+* garnish
+* chalk
+* x256
+* terminal-menu
+* inquirer
+* bistre
 
 ### auth
 * sodium
