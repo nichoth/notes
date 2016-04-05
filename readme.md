@@ -143,44 +143,34 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * csjs & csjs-injectify
 * nets -- http requests
 
-#### logging
+### logging
 * bole
 
-#### cli
+### cli
 * configstore
 * rc
 * meow
 * yargs
+* moniker -- generate random names
 * [more](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
 
-#### pretty cli
+### pretty cli
 * garnish
 * chalk
 * x256
 * terminal-menu
 * inquirer
-* bistre
+* prompt
+* bistre -- print colourful bole logs
 
 ### auth
 * sodium
 * passport
 
-### es6
 
-**methods**
-```js
-var obj = {
-  foo: function() {},
-  bar: function() {}
-};
-
-// is the same as:
-
-var obj = {
-  foo() {},
-  bar() {}
-};
-```
+### service worker
+* [Instant Loading Web Apps With An Application Shell Architecture](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73#.51gp3l2z0) -- by Addy Osmani & Matt Gaunt
+* [offline wikipedia demo](https://wiki-offline.jakearchibald.com/)
 
 
 ### DOM diffing
