@@ -128,14 +128,15 @@ Deploy to S3, use the amazon website to configure cloudfront.
 
 ## javascript
 
-### little modules like in lodash
+### build tools
+* npm-run-all
 
+### little modules like in lodash
 * after
 * reduce
 * deep-extend
 
 ### little node tools
-
 * brake -- throttle a stream with backpressure
 * cookie-cutter -- get and set cookies client side
 * monotonic-timestamp
