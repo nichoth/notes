@@ -81,6 +81,8 @@
 ### amazon
 * S3 &ndash; "simple storage service". Object storage with a web UI. Pay as you go, no minimum.
 * cloudfront &ndash; CDN. Charged per gigabyte transfered.
+* [sns](https://aws.amazon.com/sns/) &ndash; simple notification service
+* [lambda](https://aws.amazon.com/lambda/) &ndash; listen to events from other amazon services and run a function
 
 **static hosting**  
 Deploy to S3, use the amazon website to configure cloudfront.
@@ -128,6 +130,10 @@ Deploy to S3, use the amazon website to configure cloudfront.
 
 
 ## javascript
+
+### browser
+* [jump](https://github.com/callmecavs/jump.js) &ndash; scroll to places
+* [tweezer](https://github.com/jaxgeller/tweezer.js) &ndash; animation thing
 
 ### build tools
 * npm-run-all
