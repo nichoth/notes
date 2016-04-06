@@ -114,6 +114,12 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [Grids with flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/grids/)
 * [flexbox froggy](http://flexboxfroggy.com/)
 
+#### shapes, clipping, svg
+* [clippy](http://bennettfeely.com/clippy/) &ndash; make css clipping shapes with a gui tool
+* [smashing article](https://www.smashingmagazine.com/2015/05/creating-responsive-shapes-with-clip-path/)
+* [svg responsive, viewbox](https://docs.google.com/presentation/d/1Iuvf3saPCJepVJBDNNDSmSsA0_rwtRYehSmmSSLYFVQ/pub?start=false&loop=false&delayms=3000&slide=id.g18168351a_07)
+* [svg animating paths](https://docs.google.com/presentation/d/1Iuvf3saPCJepVJBDNNDSmSsA0_rwtRYehSmmSSLYFVQ/pub?start=false&loop=false&delayms=3000&slide=id.g34112647d_0121) &ndash; use snap.svg
+
 --------------------------------------
 
 ## articles
