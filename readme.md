@@ -160,6 +160,8 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * testron -- CI for browser stuff
 * csjs & csjs-injectify
 * nets -- http requests
+* [EventEmitter2](https://github.com/asyncly/EventEmitter2) -- luxury events
+multipipe -- nice streams
 
 ### logging
 * bole
@@ -180,6 +182,10 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * inquirer
 * prompt
 * bistre -- print colourful bole logs
+* ora -- loading spinner
+* cli-spinners
+* log-update -- animations
+* progress
 
 ### auth
 * sodium
