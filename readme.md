@@ -152,7 +152,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * deep-extend
 * array-range
 
-### little node tools
+### node tools
 * brake -- throttle a stream with backpressure
 * cookie-cutter -- get and set cookies client side
 * monotonic-timestamp
@@ -163,7 +163,8 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * csjs & csjs-injectify
 * nets -- http requests
 * [EventEmitter2](https://github.com/asyncly/EventEmitter2) -- luxury events
-multipipe -- nice streams
+* multipipe -- nice streams
+* nock -- http server mock
 
 ### logging
 * bole
