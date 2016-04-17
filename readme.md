@@ -149,6 +149,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * after
 * reduce
 * deep-extend
+* array-range
 
 ### little node tools
 * brake -- throttle a stream with backpressure
