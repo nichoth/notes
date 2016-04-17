@@ -21,7 +21,7 @@
   - [browser](#browser)
   - [build tools](#build-tools)
   - [little modules like in lodash](#little-modules-like-in-lodash)
-  - [little node tools](#little-node-tools)
+  - [node tools](#node-tools)
   - [logging](#logging)
   - [cli](#cli)
   - [pretty cli](#pretty-cli)
