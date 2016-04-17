@@ -144,6 +144,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 
 ### build tools
 * npm-run-all
+* scripty
 
 ### little modules like in lodash
 * after
