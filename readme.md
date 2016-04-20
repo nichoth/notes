@@ -100,10 +100,19 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [Italiana](https://www.google.com/fonts/specimen/Italiana) &ndash; google font. High contrast, display, deco like, only 1 weight.
 * [Josephine Slab](https://www.google.com/fonts/specimen/Josefin+Slab) &ndash; Google font, slab serif, 10 styles
 * [Merriweather](https://www.google.com/fonts/specimen/Merriweather) &ndash; serif, 8 styles
-* [Lato](https://www.google.com/fonts/specimen/Lato) &ndash; sans-serif, 10 styles
+* [Lato](https://www.google.com/fonts/specimen/Lato) &ndash; sans-serif, 10 styles, thin weights
 * [Muli](https://www.google.com/fonts/specimen/Muli) &ndash; geometric sans-serif with single story 'a' like futura
 * [Museo Sans Condensed](https://typekit.com/fonts/museo-sans-condensed) &ndash; 10 styles
 * [Fira Sans 2](https://typekit.com/fonts/fira-sans-2) &ndash; really really thin sans serif
+
+#### display
+* [Poiret One](https://www.google.com/fonts/specimen/Poiret+One) &ndash; thin oblique sans serif, only one weight
+* [Limelight](https://www.google.com/fonts/specimen/Limelight) &ndash; art decco movie theater, 1 weight
+* [Arapey](https://www.google.com/fonts/specimen/Arapey) &ndash; serif, kind of high contrast. Like Didot when it's drunk. 2 styles &ndash; normal and italic.
+* [Prata](https://www.google.com/fonts/specimen/Prata) &ndash; serif high contrast, like Didot. 1 weight
+* [Suranna](https://www.google.com/fonts/specimen/Suranna) &ndash; serif high contrast, like Didot. 1 weight.
+* [Bentham](https://www.google.com/fonts/specimen/Bentham) &ndash; serif high contrast. 1 style.
+* [Old Standard TT](https://www.google.com/fonts/specimen/Old+Standard+TT) &ndash; high contrast serif. 3 styles &ndash; normal, bold, italic
 
 * [A Curated Collection of the 30 Best Google Fonts](https://www.typewolf.com/open-source-web-fonts)
 
