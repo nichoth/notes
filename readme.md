@@ -211,15 +211,17 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [offline wikipedia demo](https://wiki-offline.jakearchibald.com/)
 
 
-### DOM diffing
+### View layer
 
 [morphdom](https://github.com/patrick-steele-idem/morphdom)
 
 Diff the DOM vs another DOM (no virtual DOM involved).
 
-Easier b/c *forms*. If the state in the DOM changes b/c it is mutated directly, that's fine. We don't need to preserve form state in the vdom.
+[skatejs](https://github.com/skatejs/skatejs) -- component stuff
 
-No effective perfomance loss vs vdom.
+[throw-down](https://github.com/silentcicero/throw-down) -- dom node lifecycle
+
+
 
 
 ------------------------
