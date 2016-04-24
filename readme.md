@@ -27,7 +27,7 @@
   - [pretty cli](#pretty-cli)
   - [auth](#auth)
   - [service worker](#service-worker)
-  - [DOM diffing](#dom-diffing)
+  - [View layer](#view-layer)
 - [misc](#misc)
   - [append only](#append-only)
 - [hard problems](#hard-problems)
