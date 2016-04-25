@@ -156,6 +156,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * scripty
 
 ### little modules like in lodash
+* arrify
 * after
 * reduce
 * deep-extend
