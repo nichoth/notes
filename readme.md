@@ -104,6 +104,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [Muli](https://www.google.com/fonts/specimen/Muli) &ndash; geometric sans-serif with single story 'a' like futura
 * [Museo Sans Condensed](https://typekit.com/fonts/museo-sans-condensed) &ndash; 10 styles
 * [Fira Sans 2](https://typekit.com/fonts/fira-sans-2) &ndash; really really thin sans serif
+* [Martel Sans](https://www.google.com/fonts/specimen/Martel+Sans) &ndash; 7 weights
 
 #### display
 * [Poiret One](https://www.google.com/fonts/specimen/Poiret+One) &ndash; thin oblique sans serif, only one weight
@@ -113,6 +114,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [Suranna](https://www.google.com/fonts/specimen/Suranna) &ndash; serif high contrast, like Didot. 1 weight.
 * [Bentham](https://www.google.com/fonts/specimen/Bentham) &ndash; serif high contrast. 1 style.
 * [Old Standard TT](https://www.google.com/fonts/specimen/Old+Standard+TT) &ndash; high contrast serif. 3 styles &ndash; normal, bold, italic
+* [IM Fell English](https://www.google.com/fonts/specimen/IM+Fell+English) &ndash; Old looking serif
 
 * [A Curated Collection of the 30 Best Google Fonts](https://www.typewolf.com/open-source-web-fonts)
 
