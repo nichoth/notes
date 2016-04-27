@@ -181,6 +181,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * nock -- http server mock
 
 ### logging
+* pino
 * bole
 
 ### cli
