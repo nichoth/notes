@@ -31,6 +31,7 @@
 - [misc](#misc)
   - [append only](#append-only)
 - [hard problems](#hard-problems)
+- [cool shit](#cool-shit)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
