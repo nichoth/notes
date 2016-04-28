@@ -251,3 +251,8 @@ Implementations of append only logs
 * cache invalidation
 * naming things
 * css vertical centering
+
+
+## cool shit
+
+* cli-weather
