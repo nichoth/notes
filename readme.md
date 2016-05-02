@@ -98,16 +98,17 @@ Deploy to S3, use the amazon website to configure cloudfront.
 ### type
 * [Playfair display](https://www.google.com/fonts/specimen/Playfair+Display) &ndash; high contrast serif, 6 styles
 * [Oswald](https://www.google.com/fonts/specimen/Oswald) &ndash; google font, sans-serif, news gothic like, 3 weights. see [http://davidtheclark.com/](http://davidtheclark.com/)
-* [Italiana](https://www.google.com/fonts/specimen/Italiana) &ndash; google font. High contrast, display, deco like, only 1 weight.
 * [Josephine Slab](https://www.google.com/fonts/specimen/Josefin+Slab) &ndash; Google font, slab serif, 10 styles
 * [Merriweather](https://www.google.com/fonts/specimen/Merriweather) &ndash; serif, 8 styles
 * [Lato](https://www.google.com/fonts/specimen/Lato) &ndash; sans-serif, 10 styles, thin weights
 * [Muli](https://www.google.com/fonts/specimen/Muli) &ndash; geometric sans-serif with single story 'a' like futura
 * [Museo Sans Condensed](https://typekit.com/fonts/museo-sans-condensed) &ndash; 10 styles
 * [Fira Sans 2](https://typekit.com/fonts/fira-sans-2) &ndash; really really thin sans serif
-* [Martel Sans](https://www.google.com/fonts/specimen/Martel+Sans) &ndash; 7 weights
+* [Martel Sans](https://www.google.com/fonts/specimen/Martel+Sans) &ndash; 7 weights, contrast, diagonal axis
+* [Poppins](https://www.google.com/fonts/specimen/Poppins) &ndash; Geometric sans-serif, 5 weights, no italic
 
 #### display
+* [Italiana](https://www.google.com/fonts/specimen/Italiana) &ndash; google font. High contrast, display, deco like, only 1 weight.
 * [Poiret One](https://www.google.com/fonts/specimen/Poiret+One) &ndash; thin oblique sans serif, only one weight
 * [Limelight](https://www.google.com/fonts/specimen/Limelight) &ndash; art decco movie theater, 1 weight
 * [Arapey](https://www.google.com/fonts/specimen/Arapey) &ndash; serif, kind of high contrast. Like Didot when it's drunk. 2 styles &ndash; normal and italic.
