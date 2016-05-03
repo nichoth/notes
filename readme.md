@@ -154,6 +154,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 ### browser
 * [jump](https://github.com/callmecavs/jump.js) &ndash; scroll to places
 * [tweezer](https://github.com/jaxgeller/tweezer.js) &ndash; animation thing
+* dom101 - utilities like in jQuery, but modular style
 
 ### build tools
 * npm-run-all
