@@ -183,6 +183,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [EventEmitter2](https://github.com/asyncly/EventEmitter2) -- luxury events
 * multipipe -- nice streams
 * nock -- http server mock
+* chloride -- cryptography
 
 ### logging
 * pino
