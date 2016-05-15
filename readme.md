@@ -180,10 +180,11 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * testron -- CI for browser stuff
 * csjs & csjs-injectify
 * nets -- http requests
-* [EventEmitter2](https://github.com/asyncly/EventEmitter2) -- luxury events
+* [EventEmitter2](https://github.com/asyncly/EventEmitter2) -- deluxe events
 * multipipe -- nice streams
 * nock -- http server mock
 * chloride -- cryptography
+* semantic-release
 
 ### logging
 * pino
