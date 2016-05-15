@@ -261,3 +261,4 @@ Implementations of append only logs
 ## cool shit
 
 * cli-weather
+* [https://github.com/nlp-compromise/nlp_compromise](nlp_compromise)
