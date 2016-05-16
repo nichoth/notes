@@ -223,25 +223,18 @@ Deploy to S3, use the amazon website to configure cloudfront.
 
 ### View layer
 
-[morphdom](https://github.com/patrick-steele-idem/morphdom)
-
-Diff the DOM vs another DOM (no virtual DOM involved).
-
-[skatejs](https://github.com/skatejs/skatejs) -- component stuff
-
-[throw-down](https://github.com/silentcicero/throw-down) -- dom node lifecycle
-
-
+* [morphdom](https://github.com/patrick-steele-idem/morphdom)
+* [skatejs](https://github.com/skatejs/skatejs) -- component stuff
+* [throw-down](https://github.com/silentcicero/throw-down) -- dom node lifecycle
+* [marko](https://github.com/marko-js/marko) -- template thing
 
 
 ------------------------
 
-
 ## misc
 
-### append only
 
-Implementations of append only logs
+### append only logs
 
 * [secure scuttlebutt](https://github.com/ssbc/docs)
 * [forkdb](https://github.com/substack/forkdb)
@@ -263,3 +256,4 @@ Implementations of append only logs
 
 * cli-weather
 * [nlp_compromise](https://github.com/nlp-compromise/nlp_compromise)
+* [p2p workshop](https://p2p-workshop.mafintosh.com/)
