@@ -29,7 +29,7 @@
   - [service worker](#service-worker)
   - [View layer](#view-layer)
 - [misc](#misc)
-  - [append only](#append-only)
+  - [append only logs](#append-only-logs)
 - [hard problems](#hard-problems)
 - [cool shit](#cool-shit)
 
@@ -180,11 +180,13 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * testron -- CI for browser stuff
 * csjs & csjs-injectify
 * nets -- http requests
+* xhr -- like nets
 * [EventEmitter2](https://github.com/asyncly/EventEmitter2) -- deluxe events
 * multipipe -- nice streams
 * nock -- http server mock
 * chloride -- cryptography
 * semantic-release
+* drag-and-drop-files
 
 ### logging
 * pino
