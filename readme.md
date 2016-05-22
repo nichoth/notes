@@ -126,6 +126,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [An Introduction To PostCSS](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/)
 * [Grids with flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/grids/)
 * [flexbox froggy](http://flexboxfroggy.com/)
+* [flexbox codepen](http://codepen.io/osublake/full/dMLQJr/)
 
 #### shapes, clipping, svg
 * [clippy](http://bennettfeely.com/clippy/) &ndash; make css clipping shapes with a gui tool
