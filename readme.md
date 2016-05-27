@@ -260,3 +260,4 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * cli-weather
 * [nlp_compromise](https://github.com/nlp-compromise/nlp_compromise)
 * [p2p workshop](https://p2p-workshop.mafintosh.com/)
+* [how2](https://www.npmjs.com/package/how2)
