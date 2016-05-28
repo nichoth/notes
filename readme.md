@@ -164,8 +164,11 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * dom101 - utilities like in jQuery, but modular style
 
 ### build tools
-* npm-run-all
-* scripty
+* npm-run-all -- run many scripts at once
+* scripty -- manage npm scripts
+* bundleify -- preset transforms for browserify
+* es2020 -- only use what you need in es6
+* bundle-collapser -- optimize file size
 
 ### little modules like in lodash
 * arrify
