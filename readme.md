@@ -32,6 +32,7 @@
   - [append only logs](#append-only-logs)
 - [hard problems](#hard-problems)
 - [cool shit](#cool-shit)
+- [to read](#to-read)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
