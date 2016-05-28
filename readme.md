@@ -13,6 +13,7 @@
   - [others](#others)
   - [hosts](#hosts)
   - [amazon](#amazon)
+  - [static sites](#static-sites)
 - [design](#design)
   - [type](#type)
   - [css](#css)
