@@ -20,7 +20,7 @@
 - [articles](#articles)
 - [javascript](#javascript)
   - [browser](#browser)
-  - [build tools](#build-tools)
+  - [build & dev tools](#build-&-dev-tools)
   - [little modules like in lodash](#little-modules-like-in-lodash)
   - [node tools](#node-tools)
   - [logging](#logging)
@@ -162,6 +162,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [jump](https://github.com/callmecavs/jump.js) &ndash; scroll to places
 * [tweezer](https://github.com/jaxgeller/tweezer.js) &ndash; animation thing
 * dom101 - utilities like in jQuery, but modular style
+* [remy's polyfills](https://github.com/remy/polyfills)
 
 ### build & dev tools
 * npm-run-all -- run many scripts at once
