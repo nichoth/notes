@@ -163,12 +163,15 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [tweezer](https://github.com/jaxgeller/tweezer.js) &ndash; animation thing
 * dom101 - utilities like in jQuery, but modular style
 
-### build tools
+### build & dev tools
 * npm-run-all -- run many scripts at once
 * scripty -- manage npm scripts
 * bundleify -- preset transforms for browserify
 * es2020 -- only use what you need in es6
-* bundle-collapser -- optimize file size
+* bundle-collapser -- optimize file size in browserify
+* insert-css -- insert a string of css into the file
+* standard -- easy code style
+* csjs-extractify -- extract csjs into an external css bundle
 
 ### little modules like in lodash
 * arrify
