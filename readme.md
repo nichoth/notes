@@ -261,3 +261,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [nlp_compromise](https://github.com/nlp-compromise/nlp_compromise)
 * [p2p workshop](https://p2p-workshop.mafintosh.com/)
 * [how2](https://www.npmjs.com/package/how2)
+
+
+## to read
+[EventSource](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
