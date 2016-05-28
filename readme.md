@@ -91,6 +91,10 @@
 Deploy to S3, use the amazon website to configure cloudfront.
 
 
+### static sites
+* [surge](http://surge.sh)
+* [staticland](https://static.land/)
+
 ---------------------------------------
 
 
