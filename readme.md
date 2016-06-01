@@ -163,6 +163,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [tweezer](https://github.com/jaxgeller/tweezer.js) &ndash; animation thing
 * dom101 - utilities like in jQuery, but modular style
 * [remy's polyfills](https://github.com/remy/polyfills)
+* mousetrap -- keyboard shortcuts
 
 ### build & dev tools
 * npm-run-all -- run many scripts at once
@@ -184,7 +185,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * object-values
 
 ### node tools
-* restify
+* restify -- easy server
 * brake -- throttle a stream with backpressure
 * cookie-cutter -- get and set cookies client side
 * monotonic-timestamp
@@ -197,10 +198,11 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * xhr -- like nets
 * [EventEmitter2](https://github.com/asyncly/EventEmitter2) -- deluxe events
 * multipipe -- nice streams
-* nock -- http server mock
 * chloride -- cryptography
 * semantic-release
 * drag-and-drop-files
+* nock -- http server mock
+* nodemailer -- email
 
 ### logging
 * pino
