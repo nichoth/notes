@@ -13,13 +13,14 @@
   - [others](#others)
   - [hosts](#hosts)
   - [amazon](#amazon)
+  - [static sites](#static-sites)
 - [design](#design)
   - [type](#type)
   - [css](#css)
 - [articles](#articles)
 - [javascript](#javascript)
   - [browser](#browser)
-  - [build tools](#build-tools)
+  - [build & dev tools](#build-&-dev-tools)
   - [little modules like in lodash](#little-modules-like-in-lodash)
   - [node tools](#node-tools)
   - [logging](#logging)
@@ -32,6 +33,7 @@
   - [append only logs](#append-only-logs)
 - [hard problems](#hard-problems)
 - [cool shit](#cool-shit)
+- [to read](#to-read)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -89,6 +91,10 @@
 **static hosting**  
 Deploy to S3, use the amazon website to configure cloudfront.
 
+
+### static sites
+* [surge](http://surge.sh)
+* [staticland](https://static.land/)
 
 ---------------------------------------
 
@@ -156,10 +162,18 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [jump](https://github.com/callmecavs/jump.js) &ndash; scroll to places
 * [tweezer](https://github.com/jaxgeller/tweezer.js) &ndash; animation thing
 * dom101 - utilities like in jQuery, but modular style
+* [remy's polyfills](https://github.com/remy/polyfills)
+* mousetrap -- keyboard shortcuts
 
-### build tools
-* npm-run-all
-* scripty
+### build & dev tools
+* npm-run-all -- run many scripts at once
+* scripty -- manage npm scripts
+* bundleify -- preset transforms for browserify
+* es2020 -- only use what you need in es6
+* bundle-collapser -- optimize file size in browserify
+* insert-css -- insert a string of css into the file
+* standard -- easy code style
+* csjs-extractify -- extract csjs into an external css bundle
 
 ### little modules like in lodash
 * arrify
@@ -171,7 +185,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * object-values
 
 ### node tools
-* restify
+* restify -- easy server
 * brake -- throttle a stream with backpressure
 * cookie-cutter -- get and set cookies client side
 * monotonic-timestamp
@@ -184,10 +198,11 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * xhr -- like nets
 * [EventEmitter2](https://github.com/asyncly/EventEmitter2) -- deluxe events
 * multipipe -- nice streams
-* nock -- http server mock
 * chloride -- cryptography
 * semantic-release
 * drag-and-drop-files
+* nock -- http server mock
+* nodemailer -- email
 
 ### logging
 * pino
@@ -270,3 +285,8 @@ $ git checkout --theirs <file>
 * cli-weather
 * [nlp_compromise](https://github.com/nlp-compromise/nlp_compromise)
 * [p2p workshop](https://p2p-workshop.mafintosh.com/)
+* [how2](https://www.npmjs.com/package/how2)
+
+
+## to read
+[EventSource](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
