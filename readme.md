@@ -231,6 +231,16 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [throw-down](https://github.com/silentcicero/throw-down) -- dom node lifecycle
 * [marko](https://github.com/marko-js/marko) -- template thing
 
+-----------------------
+
+## git
+
+Merge conflicts
+
+```sh
+$ git checkout --ours <file>
+$ git checkout --theirs <file>
+```
 
 ------------------------
 
