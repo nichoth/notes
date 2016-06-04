@@ -29,6 +29,7 @@
   - [auth](#auth)
   - [service worker](#service-worker)
   - [View layer](#view-layer)
+- [git](#git)
 - [misc](#misc)
   - [append only logs](#append-only-logs)
 - [hard problems](#hard-problems)
@@ -77,6 +78,7 @@
 * [known](https://withknown.com/) &ndash; publish to a bunch of different social sites
 * [formkeep](https://formkeep.com) &ndash; forms
 * [apigee](http://apigee.com/) &ndash; API
+* [pingdom](https://tools.pingdom.com/) &ndash; measure page load performance
 
 ### hosts
 [digital ocean](https://www.digitalocean.com)
