@@ -29,6 +29,7 @@
   - [auth](#auth)
   - [service worker](#service-worker)
   - [View layer](#view-layer)
+- [git](#git)
 - [misc](#misc)
   - [append only logs](#append-only-logs)
 - [hard problems](#hard-problems)
@@ -78,6 +79,7 @@
 * [known](https://withknown.com/) &ndash; publish to a bunch of different social sites
 * [formkeep](https://formkeep.com) &ndash; forms
 * [apigee](http://apigee.com/) &ndash; API
+* [pingdom](https://tools.pingdom.com/) &ndash; measure page load performance
 
 ### hosts
 [digital ocean](https://www.digitalocean.com)
@@ -151,6 +153,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [An Introduction to Static Site Generators](An Introduction to Static Site Generators)
 * [New Healthcare.gov is Open, CMS-Free](https://developmentseed.org/blog/new-healthcare-gov-is-open-and-cms-free/)
 * [webapps of the future](https://github.com/substack/webapps-of-the-future) &ndash; "The door refused to open. It said, 'Five cents, please.'"
+* [Pokedex](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org) -- offline, web worker, service worker
 
 
 ------------------------------------
@@ -290,3 +293,6 @@ $ git checkout --theirs <file>
 
 ## to read
 [EventSource](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
+
+
+
