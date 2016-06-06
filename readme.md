@@ -59,19 +59,20 @@
 * [moltin](https://moltin.com/) &ndash; ecommmerce. Inventory management, admin UI. Have to use their cart and stuff. 
 * [tictail](https://tictail.com/) &ndash; really good & easy, no code required, free except for payment processing
 
-
 ### storage / data
 * [remotestorage.io](https://remotestorage.io/) &ndash; sync, offline
 * [kinto](http://kinto.readthedocs.org/en/latest/overview.html#why-use-kinto) &ndash; sync, offline
 * [hoodie](Hoodie) &ndash; offline, sync, facade for any backend
 
+### search
+* [algolia](https://www.algolia.com/) 
+* [swiftype](https://swiftype.com/) &ndash; search
 
 ### others
 * [postmark](https://postmarkapp.com/) &ndash; email
 * [apiary](https://apiary.io/) &ndash; Rapid prototype and documentation generator for APIs. 
 * [roots](http://roots.cx/) &ndash; static site generator (build tool)
 * [userapp](https://www.userapp.io/) &ndash; user management
-* [swiftype](https://swiftype.com/) &ndash; search
 * [cloudup](https://cloudup.com/) &ndash; content sharing
 * [zapier](https://zapier.com/) &ndash; connect different web services
 * [known](https://withknown.com/) &ndash; publish to a bunch of different social sites
@@ -80,7 +81,6 @@
 
 ### hosts
 [digital ocean](https://www.digitalocean.com)
-
 
 ### amazon
 * S3 &ndash; "simple storage service". Object storage with a web UI. Pay as you go, no minimum.
