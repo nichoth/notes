@@ -289,6 +289,7 @@ $ git checkout --theirs <file>
 * [nlp_compromise](https://github.com/nlp-compromise/nlp_compromise)
 * [p2p workshop](https://p2p-workshop.mafintosh.com/)
 * [how2](https://www.npmjs.com/package/how2)
+* [distributed patterns workshop](http://yoshuawuyts.com/workshop-distributed-patterns/build/00.html)
 
 
 ## to read
