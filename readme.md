@@ -155,7 +155,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * [New Healthcare.gov is Open, CMS-Free](https://developmentseed.org/blog/new-healthcare-gov-is-open-and-cms-free/)
 * [webapps of the future](https://github.com/substack/webapps-of-the-future) &ndash; "The door refused to open. It said, 'Five cents, please.'"
 * [Pokedex](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org) -- offline, web worker, service worker
-
+* [UNIDIRECTIONAL USER INTERFACE ARCHITECTURES](http://staltz.com/unidirectional-user-interface-architectures.html)
 
 ------------------------------------
 
