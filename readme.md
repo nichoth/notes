@@ -10,6 +10,7 @@
   - [payments](#payments)
   - [buy things](#buy-things)
   - [storage / data](#storage--data)
+  - [search](#search)
   - [others](#others)
   - [hosts](#hosts)
   - [amazon](#amazon)
