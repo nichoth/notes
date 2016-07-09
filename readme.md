@@ -35,7 +35,6 @@
   - [append only logs](#append-only-logs)
 - [hard problems](#hard-problems)
 - [cool shit](#cool-shit)
-- [to read](#to-read)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -291,10 +290,3 @@ $ git checkout --theirs <file>
 * [p2p workshop](https://p2p-workshop.mafintosh.com/)
 * [how2](https://www.npmjs.com/package/how2)
 * [distributed patterns workshop](http://yoshuawuyts.com/workshop-distributed-patterns/build/00.html)
-
-
-## to read
-[EventSource](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
-
-
-
