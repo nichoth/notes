@@ -186,6 +186,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * array-range
 * object.pick
 * object-values
+* for-each
 
 ### node tools
 * restify -- easy server
