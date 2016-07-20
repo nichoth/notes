@@ -197,7 +197,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * async-waterfall
 * curry
 * dom-css
-* testron -- CI for browser stuff
+* tape-run -- print browser tests to stdout
 * csjs & csjs-injectify
 * nets -- http requests
 * xhr -- like nets
