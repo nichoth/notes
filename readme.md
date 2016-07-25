@@ -195,6 +195,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * cookie-cutter -- get and set cookies client side
 * monotonic-timestamp
 * async-waterfall
+* [async-each-series](https://www.npmjs.com/package/async-each-series)
 * curry
 * dom-css
 * tape-run -- print browser tests to stdout
