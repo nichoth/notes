@@ -2,3 +2,4 @@
 * [substack - "The disintermediated web"](https://www.youtube.com/watch?v=6jcQoSraHcw&list=PL0CdgOSSGlBYnHAl_DZoy9BWvdVQjNKE2&index=3)
 * [Jake Archibald - "offline-first Progressive Web Apps"](https://www.youtube.com/watch?v=cmGr0RszHc8)
 * [Evan Czaplicki - Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE)
+* [isaacs - make file madness](https://www.youtube.com/watch?v=dsqBSgdQz_8)
