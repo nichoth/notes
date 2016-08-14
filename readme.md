@@ -11,6 +11,7 @@
   - [buy things](#buy-things)
   - [storage / data](#storage--data)
   - [search](#search)
+  - [email](#email)
   - [others](#others)
   - [hosts](#hosts)
   - [amazon](#amazon)
