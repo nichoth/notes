@@ -69,8 +69,14 @@
 * [algolia](https://www.algolia.com/) 
 * [swiftype](https://swiftype.com/) &ndash; search
 
+### email
+* ["mail gun"](http://www.mailgun.com/)
+* [postmark](https://postmarkapp.com/)
+* [sendgrid](https://sendgrid.com/)
+* [aws ses](https://aws.amazon.com/ses/pricing/)
+* [zoho](https://www.zoho.com/mail/) free
+
 ### others
-* [postmark](https://postmarkapp.com/) &ndash; email
 * [apiary](https://apiary.io/) &ndash; Rapid prototype and documentation generator for APIs. 
 * [roots](http://roots.cx/) &ndash; static site generator (build tool)
 * [userapp](https://www.userapp.io/) &ndash; user management
