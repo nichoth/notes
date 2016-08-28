@@ -51,6 +51,7 @@
 ### CDN
 * [netlify](https://www.netlify.com/) &ndash; easy webhooks
 * [maxCDN](https://www.maxcdn.com/)
+* [fastly](https://www.fastly.com/)
 
 ### payments
 * [stripe](https://stripe.com)
@@ -75,18 +76,22 @@
 * [postmark](https://postmarkapp.com/)
 * [sendgrid](https://sendgrid.com/)
 * [aws ses](https://aws.amazon.com/ses/pricing/)
-* [zoho](https://www.zoho.com/mail/) free
+* [zoho](https://www.zoho.com/mail/) free mail server with custom domain
 
 ### others
-* [apiary](https://apiary.io/) &ndash; Rapid prototype and documentation generator for APIs. 
-* [roots](http://roots.cx/) &ndash; static site generator (build tool)
 * [userapp](https://www.userapp.io/) &ndash; user management
 * [cloudup](https://cloudup.com/) &ndash; content sharing
 * [zapier](https://zapier.com/) &ndash; connect different web services
 * [known](https://withknown.com/) &ndash; publish to a bunch of different social sites
 * [formkeep](https://formkeep.com) &ndash; forms
-* [apigee](http://apigee.com/) &ndash; API
 * [pingdom](https://tools.pingdom.com/) &ndash; measure page load performance
+* [intercom](https://www.intercom.io) &ndash; embedded chat thing
+
+### API
+* [apiary](https://apiary.io/) &ndash; Rapid prototype and documentation generator for APIs. 
+* [apigee](http://apigee.com/)
+* [stoplight](http://stoplight.io) - docs and tests
+
 
 ### hosts
 [digital ocean](https://www.digitalocean.com)
@@ -98,12 +103,13 @@
 * [lambda](https://aws.amazon.com/lambda/) &ndash; listen to events from other amazon services and run a function
 
 **static hosting**  
-Deploy to S3, use the amazon website to configure cloudfront.
+Deploy to S3, use the aws ui to configure cloudfront.
 
 
 ### static sites
 * [surge](http://surge.sh)
 * [staticland](https://static.land/)
+* [roots](http://roots.cx/) &ndash; static site generator (build tool)
 
 ---------------------------------------
 
