@@ -13,6 +13,7 @@
   - [search](#search)
   - [email](#email)
   - [others](#others)
+  - [API](#api)
   - [hosts](#hosts)
   - [amazon](#amazon)
   - [static sites](#static-sites)
