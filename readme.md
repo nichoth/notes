@@ -69,16 +69,24 @@
 * [algolia](https://www.algolia.com/) 
 * [swiftype](https://swiftype.com/) &ndash; search
 
-### others
-* [postmark](https://postmarkapp.com/) &ndash; email
+### email
+* [postmark](https://postmarkapp.com/) -- transactional emails
+* sendgrid -- all sorts of emails
+* zoho - free server with custom domain
+
+### API
 * [apiary](https://apiary.io/) &ndash; Rapid prototype and documentation generator for APIs. 
+* stoplight -- docs and tests
+* [apigee](http://apigee.com/)
+
+### others
 * [userapp](https://www.userapp.io/) &ndash; user management
 * [cloudup](https://cloudup.com/) &ndash; content sharing
 * [zapier](https://zapier.com/) &ndash; connect different web services
 * [known](https://withknown.com/) &ndash; publish to a bunch of different social sites
 * [formkeep](https://formkeep.com) &ndash; forms
-* [apigee](http://apigee.com/) &ndash; API
 * [pingdom](https://tools.pingdom.com/) &ndash; measure page load performance
+
 
 ### hosts
 [digital ocean](https://www.digitalocean.com)
