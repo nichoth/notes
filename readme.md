@@ -72,7 +72,6 @@
 ### others
 * [postmark](https://postmarkapp.com/) &ndash; email
 * [apiary](https://apiary.io/) &ndash; Rapid prototype and documentation generator for APIs. 
-* [roots](http://roots.cx/) &ndash; static site generator (build tool)
 * [userapp](https://www.userapp.io/) &ndash; user management
 * [cloudup](https://cloudup.com/) &ndash; content sharing
 * [zapier](https://zapier.com/) &ndash; connect different web services
@@ -97,6 +96,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 ### static sites
 * [surge](http://surge.sh)
 * [staticland](https://static.land/)
+* [roots](http://roots.cx/) &ndash; static site generator (build tool)
 
 ---------------------------------------
 
@@ -167,6 +167,12 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * dom101 - utilities like in jQuery, but modular style
 * [remy's polyfills](https://github.com/remy/polyfills)
 * mousetrap -- keyboard shortcuts
+* cookie-cutter -- get and set cookies client side
+* xhr -- browser side xhr wrapper
+* csjs-extractify -- extract csjs into an external css bundle
+* csjs & csjs-injectify
+* dom-css
+* drag-and-drop-files
 
 ### build & dev tools
 * npm-run-all -- run many scripts at once
@@ -176,7 +182,10 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * bundle-collapser -- optimize file size in browserify
 * insert-css -- insert a string of css into the file
 * standard -- easy code style
-* csjs-extractify -- extract csjs into an external css bundle
+* semantic-release
+
+#### testing
+* tape-run -- print browser tests to stdout
 
 ### little modules like in lodash
 * arrify
@@ -191,38 +200,41 @@ Deploy to S3, use the amazon website to configure cloudfront.
 
 ### node tools
 * restify -- easy server
-* brake -- throttle a stream with backpressure
-* cookie-cutter -- get and set cookies client side
-* monotonic-timestamp
-* async-waterfall
-* [async-each-series](https://www.npmjs.com/package/async-each-series)
+* monotonic-timestamp -- unique timestamps
 * curry
-* dom-css
-* tape-run -- print browser tests to stdout
-* csjs & csjs-injectify
-* nets -- http requests
-* xhr -- like nets
-* [EventEmitter2](https://github.com/asyncly/EventEmitter2) -- deluxe events
-* multipipe -- nice streams
+* nets -- make requests in node or browsers
+* [EventEmitter2](https://github.com/asyncly/EventEmitter2) -- extra special events
 * chloride -- cryptography
-* semantic-release
-* drag-and-drop-files
 * nock -- http server mock
 * nodemailer -- email
+
+#### auth
+* sodium
+* passport
+
+#### stream stuff
+* multipipe -- nice streams
+* brake -- throttle a stream with backpressure
+
+### little async tools
+* run-parallel
+* run-parallel-limit
+* run-series
+* run-waterfall
+* after
 
 ### logging
 * pino
 * bole
+* bunyan -- nice log query cli
 
 ### cli
+* [bigger list](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
 * configstore
 * rc
 * meow
 * yargs
 * moniker -- generate random names
-* [more](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
-
-### pretty cli
 * garnish
 * chalk
 * x256
@@ -235,10 +247,6 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * log-update -- animations
 * progress
 
-### auth
-* sodium
-* passport
-
 
 ### service worker
 * [Instant Loading Web Apps With An Application Shell Architecture](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73#.51gp3l2z0) -- by Addy Osmani & Matt Gaunt
@@ -246,22 +254,12 @@ Deploy to S3, use the amazon website to configure cloudfront.
 
 
 ### View layer
-
 * [morphdom](https://github.com/patrick-steele-idem/morphdom)
 * [skatejs](https://github.com/skatejs/skatejs) -- component stuff
 * [throw-down](https://github.com/silentcicero/throw-down) -- dom node lifecycle
 * [marko](https://github.com/marko-js/marko) -- template thing
-
------------------------
-
-## git
-
-Merge conflicts
-
-```sh
-$ git checkout --ours <file>
-$ git checkout --theirs <file>
-```
+* yo-yo
+* bel
 
 ------------------------
 
@@ -293,3 +291,4 @@ $ git checkout --theirs <file>
 * [p2p workshop](https://p2p-workshop.mafintosh.com/)
 * [how2](https://www.npmjs.com/package/how2)
 * [distributed patterns workshop](http://yoshuawuyts.com/workshop-distributed-patterns/build/00.html)
+* [itsy bitsy data structures](https://github.com/thejameskyle/itsy-bitsy-data-structures)
