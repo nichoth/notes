@@ -275,6 +275,12 @@ Deploy to S3, use the amazon website to configure cloudfront.
 
 * [On the Criteria To Be Used in Decomposing Systems into Modules](https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)
 
+Modular design should begin with a list of difficult design decisions, or decisions which are likely to change. Each module is designed to hide such a dicision from the others. This is in contrast to say, making modules based on the type of processing that needs to be performed. Examples of things to hide are IO, data strucrtures, the sequence in which modules must be used.
+
+Each module should be comprehensible on its own, and could be developed on its own.
+
+The module interfaces should be simple and *abstract* &ndash; functions with parameters.
+
 
 ### append only logs
 
