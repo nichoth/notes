@@ -273,6 +273,8 @@ Deploy to S3, use the amazon website to configure cloudfront.
 
 ## misc
 
+* [On the Criteria To Be Used in Decomposing Systems into Modules](https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)
+
 
 ### append only logs
 
