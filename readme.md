@@ -182,6 +182,9 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * dom-css
 * drag-and-drop-files
 
+### validation
+* telephone-stuff -- parse, format, validate phone numbers
+
 ### build & dev tools
 * npm-run-all -- run many scripts at once
 * scripty -- manage npm scripts
