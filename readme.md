@@ -195,6 +195,7 @@ Deploy to S3, use the amazon website to configure cloudfront.
 * insert-css -- insert a string of css into the file
 * standard -- easy code style
 * semantic-release
+* chokidar-cli -- watch files for changes
 
 #### testing
 * tape-run -- print browser tests to stdout
