@@ -13,6 +13,6 @@ D -- delete
 
 ## etc
 ```
-:%!<command> -- pipe b to external command and replace with command output
+:%!<command> -- pipe buffer to external command and replace with command output
 :w !<cmd> -- write buffer to command
 ```
