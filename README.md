@@ -75,6 +75,7 @@ A nice video explanation of `dialog` element.
 
 * [socketsupply/treehash](https://github.com/socketsupply/treehash) — Hash a large file into a tree.
 This makes it possible to verify just a portion of the file, if you know the necessary tree hashes.
+
 * [Signaling as a Service](https://julian.digital/2020/03/28/signaling-as-a-service/)
 
 > A social network like Path attempted to limit your social graph size to the Dunbar number, capping your social capital accumulation potential and capping the distribution of your posts. The exchange, they hoped, was some greater transparency, more genuine self-expression. The anti-Facebook. Unfortunately, as social capital theory might predict, Path did indeed succeed in becoming the anti-Facebook: a network without enough users. Some businesses work best at scale, and if you believe that people want to accumulate social capital as efficiently as possible, putting a bound on how much they can earn is a challenging business model, as dark as that may be.
