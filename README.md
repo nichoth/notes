@@ -62,7 +62,14 @@ the premise of https://wormhole.app/ — put a private key after the `#` in the 
 * [The disintermediated web - Substack](https://www.youtube.com/watch?v=6jcQoSraHcw&list=PL0CdgOSSGlBYnHAl_DZoy9BWvdVQjNKE2&index=4&ab_channel=NearForm)
 
 ## database
-* [a resilient key-value store for the browser](https://github.com/gruns/ImmortalDB)
+* [ImmortalDB](https://github.com/gruns/ImmortalDB) -- a resilient key-value store for the browser
+* [Verdant](https://github.com/a-type/verdant) -- An IndexedDB-powered database and data sync solution for sustainable, human, local-first web apps.
+
+## p2p
+* [Holepunching finally explained](https://youtu.be/nuK_PqvTQxo?t=2010)
+* [LoFi discord -- talk about p2p](https://discord.com/channels/929781625473073245/1087795275365625917/1123653729867006134)
+* [the pushpin paper](https://www.inkandswitch.com/pushpin/#nat-traversal) -- NAT traversal
+* [Mathias Buus / Hypercore protocol & Holepunch](https://www.youtube.com/watch?v=nuK_PqvTQxo&t=2010s&ab_channel=WizardAmigos)
 
 ## frontend
 * [mastodon.social/@developit — Persisted Signals](https://mastodon.social/@developit/110911126736335349)
@@ -77,10 +84,25 @@ A nice video explanation of `dialog` element.
 * Hidde's Blog — [Dialogs and popovers seem similar. How are they different?](https://hidde.blog/dialog-modal-popover-differences/)
 > In addition to the [<dialog> element](https://html.spec.whatwg.org/dev/interactive-elements.html#the-dialog-element), HTML now has a [popover attribute](https://html.spec.whatwg.org/dev/popover.html#the-popover-attribute). This post goes into the differences between dialogs, popovers, overlays and disclosure widgets. We'll also look at what it means when an element is modal. All somewhat related concepts
 
+## streams
+* [@gwil being helpful in discord](https://discord.com/channels/613255095106142219/730562221612073041/1082543804076269628) about whatwg streams
+
+## the web
+* [Syndicating Content to Twitter](https://mxb.dev/blog/syndicating-content-to-twitter-with-netlify-functions/) via netlify functions
+* [The IndieWeb for Everyone](https://mxb.dev/blog/the-indieweb-for-everyone/)
+* [Webmention](https://indieweb.org/Webmention)
+* [backfeed](https://indieweb.org/backfeed)
+* [webmention.io](https://webmention.io/) -- a hosted service created to easily receive webmentions on any web page
+* [indieAuth.com](https://indieauth.com/)
+* [POSSE](https://indieweb.org/POSSE) -- Publish (on your) Own Site, Syndicate Elsewhere
+* [note](https://indieweb.org/note)
+
 ## misc
 
 * [socketsupply/treehash](https://github.com/socketsupply/treehash) — Hash a large file into a tree.
 This makes it possible to verify just a portion of the file, if you know the necessary tree hashes.
+* [The anthesis web: Anytype raises $13.4M to restore the Internet
+](https://tech.eu/2023/08/23/anytype-raises-13-4m-decentralised-web/)
 
 * [Signaling as a Service](https://julian.digital/2020/03/28/signaling-as-a-service/)
 
