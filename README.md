@@ -61,6 +61,9 @@ the premise of https://wormhole.app/ — put a private key after the `#` in the 
 * [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 * [The disintermediated web - Substack](https://www.youtube.com/watch?v=6jcQoSraHcw&list=PL0CdgOSSGlBYnHAl_DZoy9BWvdVQjNKE2&index=4&ab_channel=NearForm)
 
+## database
+* [a resilient key-value store for the browser](https://github.com/gruns/ImmortalDB)
+
 ## frontend
 * [mastodon.social/@developit — Persisted Signals](https://mastodon.social/@developit/110911126736335349)
   - [persisted signal gist](https://gist.github.com/developit/baa45015a607877a9a9e2697fb32ab8b)
@@ -85,7 +88,10 @@ This makes it possible to verify just a portion of the file, if you know the nec
 
 > Deliberately limiting the number of people who can join a network (e.g. by charging a membership fee) creates scarcity which in turns makes the network more interesting. Network membership becomes the signal message.
 
----
+-------
+
+* [Make RPC calls over a Kademlia based DHT](https://github.com/mafintosh/dht-rpc)
+
 
 ## vintage video
 * [npmCamp 2016 - Registry Design Patterns by CJ Silverio](https://www.youtube.com/watch?v=WucjSoBsOBQ&ab_channel=npm)
