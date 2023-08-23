@@ -63,6 +63,9 @@ the premise of https://wormhole.app/ — put a private key after the `#` in the 
 
 ## frontend
 * [mastodon.social/@developit — Persisted Signals](https://mastodon.social/@developit/110911126736335349)
+  - [persisted signal gist](https://gist.github.com/developit/baa45015a607877a9a9e2697fb32ab8b)
+
+* [signal-utils gist](https://gist.github.com/developit/a72311c247756f24da5b22d19c9dad48)
 
 ### dialog element
 * [Dialog :: Stuff browsers give for free](https://www.youtube.com/watch?v=y8HjQETqrOM&ab_channel=DaveCross)
