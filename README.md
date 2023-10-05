@@ -95,6 +95,7 @@ A nice video explanation of `dialog` element.
 * [Local-first software -- Peter Van Hardenberg](https://www.youtube.com/watch?v=KrPsyr8Ig6M)
 * [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 * [The disintermediated web - Substack](https://www.youtube.com/watch?v=6jcQoSraHcw&list=PL0CdgOSSGlBYnHAl_DZoy9BWvdVQjNKE2&index=4&ab_channel=NearForm)
+* [Instant Loading: Building offline-first Progressive Web Apps - Google I/O 2016](https://www.youtube.com/watch?v=cmGr0RszHc8&ab_channel=GoogleChromeDevelopers)
 
 ### tools
 * [Electric SQL](https://electric-sql.com/) — Build reactive, realtime, local-first apps directly on Postgres.
