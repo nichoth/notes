@@ -143,3 +143,8 @@ https://www.netlify.com/blog/general-availability-content-security-policy-csp-no
 
 > When we refer to a CSP, we are talking about a website’s `Content-Security-Policy` response header. The header’s value is a string of text, a semicolon-separated list of directives (like `script-src`, `image-src`, `connect-src`, etc) and their source lists, a list of domains (or content hashes) separated by spaces.
 
+
+## cryptography
+[Open MLS](https://openmls.tech/) -- An open-source implementation of the Messaging Layer Security protocol (written in Rust)
+
+
