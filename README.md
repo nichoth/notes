@@ -148,3 +148,11 @@ https://www.netlify.com/blog/general-availability-content-security-policy-csp-no
 [Open MLS](https://openmls.tech/) -- An open-source implementation of the Messaging Layer Security protocol (written in Rust)
 
 
+## design
+
+* [Making CRDTs 98% More Efficient](https://jakelazaroff.com/words/making-crdts-98-percent-more-efficient/) -- I like the fonts here.
+
+headings -- Peachi
+body -- Rumiko
+
+* [set.studio](https://set.studio/) — "we make stunning websites"
