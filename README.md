@@ -152,8 +152,8 @@ https://www.netlify.com/blog/general-availability-content-security-policy-csp-no
 
 * [Making CRDTs 98% More Efficient](https://jakelazaroff.com/words/making-crdts-98-percent-more-efficient/) -- I like the fonts here.
 
-headings -- [Peachi](https://befonts.com/peachi-font-family.html)
-body -- [Rumiko](https://befonts.com/rumiko-sans-font-family.html)
+  - headings -- [Peachi](https://befonts.com/peachi-font-family.html)
+  - body -- [Rumiko](https://befonts.com/rumiko-sans-font-family.html)
 
 * [set.studio](https://set.studio/) — "we make stunning websites"
 
