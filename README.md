@@ -11,4 +11,4 @@ See also, [the list on my website](https://nichoth.com/list/)
 
 Plus, a badge, with nice flat style
 
-[badge](https://github.com/nichoth/badge?tab=readme-ov-file#common-changelog_
+[badge](https://github.com/nichoth/badge?tab=readme-ov-file#common-changelog)
