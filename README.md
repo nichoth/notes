@@ -15,4 +15,10 @@ Plus, a badge, for [Polyform Shield license](https://polyformproject.org/license
 
 ---------------------------
 
+## June 9, 2024
+
+* [vella.ai](https://vella.ai/auth/) -- Local-First Auth
+
+----------
+
 * [Elasticlunr.js](http://elasticlunr.com/) -- Lightweight full-text search engine in Javascript for browser search and offline search
