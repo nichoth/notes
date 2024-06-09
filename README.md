@@ -12,3 +12,7 @@ See also, [the list on my website](https://nichoth.com/list/)
 Plus, a badge, for [Polyform Shield license](https://polyformproject.org/licenses/shield/1.0.0/).
 
 [badge](https://github.com/nichoth/badge?tab=readme-ov-file#polyform-shield-license)
+
+---------------------------
+
+* [Elasticlunr.js](http://elasticlunr.com/) -- Lightweight full-text search engine in Javascript for browser search and offline search
