@@ -4,6 +4,11 @@
 
 See also, [the list on my website](https://nichoth.com/list/)
 
+## WIP
+
+* [electric-sql/pglite](https://github.com/electric-sql/pglite)
+* [pglite.dev](https://pglite.dev/)
+
 ## changelog
 
 * [common changelog](https://common-changelog.org/)
