@@ -4,8 +4,9 @@
 
 See also, [the list on my website](https://nichoth.com/list/)
 
-## WIP
+## current
 
+* [esbuild bundle analyzer](https://esbuild.github.io/analyze/)
 * [electric-sql/pglite](https://github.com/electric-sql/pglite)
 * [pglite.dev](https://pglite.dev/)
 
