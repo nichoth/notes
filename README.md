@@ -16,6 +16,7 @@ See also, [the list on my website](https://nichoth.com/list/)
 * [signal — kdf chains](https://signal.org/docs/specifications/doubleratchet/#kdf-chains)
 * [Understanding HKDF](https://soatok.blog/2021/11/17/understanding-hkdf/) — a dhole moment
 * [dajiaji/hpke-js](https://github.com/dajiaji/hpke-js/tree/main)
+* [Everything you wanted to know about Elliptic Curve Cryptography](https://fission.codes/blog/everything-you-wanted-to-know-about-elliptic-curve-cryptography/)
 
 -------------
 
