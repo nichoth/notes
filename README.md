@@ -7,6 +7,7 @@ See also, [the list on my website](https://nichoth.com/list/)
 ## WIP
 
 * [HTML5 with storing files in IndexedDB](https://robnyman.github.io/html5demos/indexeddb/)
+  - [html5demos/indexeddb/js/base.js](https://github.com/robnyman/robnyman.github.com/blob/master/html5demos/indexeddb/js/base.js)
 
 -----------------------------
 
