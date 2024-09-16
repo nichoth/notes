@@ -14,6 +14,7 @@ See also, [the list on my website](https://nichoth.com/list/)
 * [Blobs and More: Storing Images and Files in IndexedDB](https://dzone.com/articles/blobs-and-more-storing-images)
 * [Aljoscha Meyer & Sam Gwilym - Earthstar + Willow](https://nlnet.nl/project/Earthstar/interview.html) — an interview by nlnet
 * [signal protocol — Diffie-Hellman ratchet](https://signal.org/docs/specifications/doubleratchet/#kdf-chains)
+* [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 
 -----------------------------
 
