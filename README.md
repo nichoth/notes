@@ -5,6 +5,11 @@
 See also, [the list on my website](https://nichoth.com/list/)
 
 ## WIP
+
+* [HTML5 with storing files in IndexedDB](https://robnyman.github.io/html5demos/indexeddb/)
+
+-----------------------------
+
 * [Hyper Hyper Space: Conclusions and ideas for building p2p secure data sync](https://www.hyperhyperspace.org/report.html)
 * [messwithdns.net](https://messwithdns.net/)
 * [maxnowack/signaldb](https://github.com/maxnowack/signaldb)
