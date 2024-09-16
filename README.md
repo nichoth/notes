@@ -4,7 +4,10 @@
 
 See also, [the list on my website](https://nichoth.com/list/)
 
-## current
+## WIP
+* [Hyper Hyper Space: Conclusions and ideas for building p2p secure data sync](https://www.hyperhyperspace.org/report.html)
+
+-------------
 
 * [esbuild bundle analyzer](https://esbuild.github.io/analyze/)
 * [electric-sql/pglite](https://github.com/electric-sql/pglite)
