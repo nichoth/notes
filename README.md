@@ -6,6 +6,14 @@ See also, [the list on my website](https://nichoth.com/list/)
 
 ## WIP
 * [Hyper Hyper Space: Conclusions and ideas for building p2p secure data sync](https://www.hyperhyperspace.org/report.html)
+* [messwithdns.net](https://messwithdns.net/)
+* [maxnowack/signaldb](https://github.com/maxnowack/signaldb)
+* [Rebuilding the Web We Lost](https://www.anildash.com//2012/12/18/rebuilding_the_web_we_lost/)
+* [More on Streams vs. Pages](https://www.anildash.com//2012/08/15/more_on_streams_vs_pages/)
+* [Stop Publishing Web Pages](https://www.anildash.com//2012/08/14/stop_publishing_web_pages/)
+* [Don’t Be Evil: Fred Turner on Utopias, Frontiers, and Brogrammers](https://logicmag.io/justice/fred-turner-dont-be-evil/)
+* [MOTIVATED: Playing with MP4 Metadata](https://whtwnd.com/msh.bsky.social/3l42sodfdzh22)
+* 
 
 -------------
 
