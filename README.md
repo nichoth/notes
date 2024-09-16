@@ -13,7 +13,9 @@ See also, [the list on my website](https://nichoth.com/list/)
 * [Stop Publishing Web Pages](https://www.anildash.com//2012/08/14/stop_publishing_web_pages/)
 * [Don’t Be Evil: Fred Turner on Utopias, Frontiers, and Brogrammers](https://logicmag.io/justice/fred-turner-dont-be-evil/)
 * [MOTIVATED: Playing with MP4 Metadata](https://whtwnd.com/msh.bsky.social/3l42sodfdzh22)
-* 
+* [signal — kdf chains](https://signal.org/docs/specifications/doubleratchet/#kdf-chains)
+* [Understanding HKDF](https://soatok.blog/2021/11/17/understanding-hkdf/) — a dhole moment
+* [dajiaji/hpke-js](https://github.com/dajiaji/hpke-js/tree/main)
 
 -------------
 
