@@ -13,6 +13,7 @@ See also, [the list on my website](https://nichoth.com/list/)
 * [robnyman.github.io/camera-api](https://robnyman.github.io/camera-api/)
 * [Blobs and More: Storing Images and Files in IndexedDB](https://dzone.com/articles/blobs-and-more-storing-images)
 * [Aljoscha Meyer & Sam Gwilym - Earthstar + Willow](https://nlnet.nl/project/Earthstar/interview.html) — an interview by nlnet
+* [signal protocol — Diffie-Hellman ratchet](https://signal.org/docs/specifications/doubleratchet/#kdf-chains)
 
 -----------------------------
 
