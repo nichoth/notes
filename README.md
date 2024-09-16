@@ -15,6 +15,7 @@ See also, [the list on my website](https://nichoth.com/list/)
 * [Aljoscha Meyer & Sam Gwilym - Earthstar + Willow](https://nlnet.nl/project/Earthstar/interview.html) — an interview by nlnet
 * [signal protocol — Diffie-Hellman ratchet](https://signal.org/docs/specifications/doubleratchet/#kdf-chains)
 * [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
+* [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
 
 -----------------------------
 
