@@ -12,6 +12,18 @@ See also, [the list on my website](https://nichoth.com/list/)
 
   > Content discovery is the hard part.
 
+  > You want a global view into the world -- who has the answer to this query?
+
+  > something older than 24 hours on the IPFS network, that's not on the gateway, that's hard to get
+
+  > high latency
+
+  > too many layers
+
+The hidden killer of many projects -- too many layers.
+
+
+
 ### Mon, Sept 16, 2024
 
 * [HTML5 with storing files in IndexedDB](https://robnyman.github.io/html5demos/indexeddb/)
