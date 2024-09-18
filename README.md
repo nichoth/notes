@@ -6,6 +6,12 @@ See also, [the list on my website](https://nichoth.com/list/)
 
 ## WIP
 
+### Web, Sept 18, 2024
+
+* [Iroh — IPFS reimagined](https://youtu.be/9jR9EWZ2bO8)
+
+  > Content discovery is the hard part.
+
 ### Mon, Sept 16, 2024
 
 * [HTML5 with storing files in IndexedDB](https://robnyman.github.io/html5demos/indexeddb/)
