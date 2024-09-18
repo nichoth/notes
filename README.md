@@ -8,6 +8,8 @@ See also, [the list on my website](https://nichoth.com/list/)
 
 ### Web, Sept 18, 2024
 
+* [see this note via iroh]()
+
 * [Iroh — IPFS reimagined](https://youtu.be/9jR9EWZ2bO8)
 
   > Content discovery is the hard part.
