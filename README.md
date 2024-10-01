@@ -8,6 +8,16 @@ See also, [the list on my website](https://nichoth.com/list/)
 
 ### Mon, Sept 30, 2024
 
+#web-components #JS
+
+* [Requirements for custom element constructors and reactions](https://html.spec.whatwg.org/multipage/custom-elements.html#custom-element-conformance)
+* [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements#types_of_custom_element)
+* [The Great Divide](https://css-tricks.com/the-great-divide/)
+
+--------------
+
+* [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
+
 #JS
 
 #### create an array of length
