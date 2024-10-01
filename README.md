@@ -6,6 +6,14 @@ See also, [the list on my website](https://nichoth.com/list/)
 
 ## WIP
 
+### Tues, Oct 1
+
+#css
+#webcomponent #web-component
+
+* [CSS Masonry & CSS Grid](https://css-tricks.com/css-masonry-css-grid/)
+* [CSS ::part selector](https://developer.mozilla.org/en-US/docs/Web/CSS/::part)
+
 ### Mon, Sept 30, 2024
 
 * [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
