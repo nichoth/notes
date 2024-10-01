@@ -6,6 +6,23 @@ See also, [the list on my website](https://nichoth.com/list/)
 
 ## WIP
 
+### Mon, Sept 30, 2024
+
+#JS
+
+#### create an array of length
+
+```js
+Array.from({ length: 5 }, (v, i) => i)
+// => [0, 1, 2, 3, 4]
+```
+
+#### get an array of the alphabet
+
+```js
+Array.from({ length: 26 }).map((_, i) => String.fromCharCode(i + 1 + 64))
+```
+
 ### Web, Sept 18, 2024
 
 * [Iroh — IPFS reimagined](https://youtu.be/9jR9EWZ2bO8)
