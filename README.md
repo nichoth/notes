@@ -8,6 +8,10 @@ See also, [the list on my website](https://nichoth.com/list/)
 
 ### Mon, Sept 30, 2024
 
+* [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
+* [The Cloud Is a Prison. Can the Local-First Software Movement Set Us Free?](https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/) (local-first in Wired magazine)
+* [CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
+
 #web-components #JS
 
 * [Requirements for custom element constructors and reactions](https://html.spec.whatwg.org/multipage/custom-elements.html#custom-element-conformance)
