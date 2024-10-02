@@ -11,8 +11,6 @@ See also, [the list on my website](https://nichoth.com/list/)
   + [see this on the internet](https://blog.excalidraw.com/end-to-end-encryption/)
 - [End-to-End Encryption in Web Apps](https://cronokirby.com/posts/2021/06/e2e_in_the_browser/)
 
------------------------------
-
 <!-- toc -->
 
 - [WIP](#wip)
