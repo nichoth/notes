@@ -4,7 +4,35 @@
 
 See also, [the list on my website](https://nichoth.com/list/)
 
+## contents
+
+- [iroh](./IROH.md)
+- [e2ee](./End-to-End-Encryption-in-the-Browser.mht)
+  + [see this on the internet](https://blog.excalidraw.com/end-to-end-encryption/)
+- [End-to-End Encryption in Web Apps](https://cronokirby.com/posts/2021/06/e2e_in_the_browser/)
+
+-----------------------------
+
+<!-- toc -->
+
+- [WIP](#wip)
+  * [Web, Oct 2](#web-oct-2)
+  * [Tues, Oct 1](#tues-oct-1)
+  * [Mon, Sept 30, 2024](#mon-sept-30-2024)
+  * [Web, Sept 18, 2024](#web-sept-18-2024)
+  * [Mon, Sept 16, 2024](#mon-sept-16-2024)
+- [changelog](#changelog)
+- [June 9, 2024](#june-9-2024)
+
+<!-- tocstop -->
+
 ## WIP
+
+### Web, Oct 2
+
+#webcomponent
+
+* [The different ways to instantiate a Web Component](https://gomakethings.com/the-different-ways-to-instantiate-a-web-component/#inside-the-constructor)
 
 ### Tues, Oct 1
 

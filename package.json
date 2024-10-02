@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "version": "0.0.0",
+    "scripts": {
+        "version": "npm run toc",
+        "postversion": "git push --follow-tags",
+        "toc": "markdown-toc --maxdepth 3 -i README.md"
+    },
+    "devDependencies": {
+        "markdown-toc": "^1.2.0"
+    }
+}
