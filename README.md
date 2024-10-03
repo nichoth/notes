@@ -28,20 +28,20 @@ See also, [the list on my website](https://nichoth.com/list/)
 
 ## WIP
 
-### Thurs, Oct 3
+### Thurs, Oct 3, 2024
 
 #JS #server
 
 ### [Hono Web application framework](https://hono.dev/)
   * [github](https://github.com/honojs/hono)
 
-### Web, Oct 2
+### Web, Oct 2, 2024
 
 #webcomponent
 
 * [The different ways to instantiate a Web Component](https://gomakethings.com/the-different-ways-to-instantiate-a-web-component/#inside-the-constructor)
 
-### Tues, Oct 1
+### Tues, Oct 1, 2024
 
 #css
 #webcomponent #web-component
