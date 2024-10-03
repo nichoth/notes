@@ -23,6 +23,7 @@ See also, [the list on my website](https://nichoth.com/list/)
   * [Web, Sept 18, 2024](#web-sept-18-2024)
   * [Mon, Sept 16, 2024](#mon-sept-16-2024)
 - [changelog](#changelog)
+- [license](#license)
 - [June 9, 2024](#june-9-2024)
 
 <!-- tocstop -->

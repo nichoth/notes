@@ -1,6 +1,6 @@
 {
     "private": true,
-    "version": "0.0.4",
+    "version": "0.0.5",
     "scripts": {
         "version": "npm run toc && git add README.md",
         "postversion": "git push --follow-tags",
