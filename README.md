@@ -31,7 +31,8 @@ See also, [the list on my website](https://nichoth.com/list/)
 
 #JS #server
 
-* [Hono Web application framework](https://hono.dev/)
+### [Hono Web application framework](https://hono.dev/)
+  * [github](https://github.com/honojs/hono)
 
 ### Web, Oct 2
 
