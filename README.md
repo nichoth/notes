@@ -14,10 +14,10 @@ See also, [the list on my website](https://nichoth.com/list/)
 <!-- toc -->
 
 - [WIP](#wip)
-  * [Thurs, Oct 3](#thurs-oct-3)
+  * [Thurs, Oct 3, 2024](#thurs-oct-3-2024)
   * [Hono Web application framework](#hono-web-application-framework)
-  * [Web, Oct 2](#web-oct-2)
-  * [Tues, Oct 1](#tues-oct-1)
+  * [Web, Oct 2, 2024](#web-oct-2-2024)
+  * [Tues, Oct 1, 2024](#tues-oct-1-2024)
   * [Mon, Sept 30, 2024](#mon-sept-30-2024)
   * [Web, Sept 18, 2024](#web-sept-18-2024)
   * [Mon, Sept 16, 2024](#mon-sept-16-2024)
