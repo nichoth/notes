@@ -10,6 +10,7 @@ See also, [the list on my website](https://nichoth.com/list/)
 - [e2ee](./End-to-End-Encryption-in-the-Browser.mht)
   + plus, [see this on the internet](https://blog.excalidraw.com/end-to-end-encryption/)
 - [End-to-End Encryption in Web Apps](https://cronokirby.com/posts/2021/06/e2e_in_the_browser/)
+- [some `vim` notes](./vim.md)
 
 <!-- toc -->
 
