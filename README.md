@@ -15,6 +15,7 @@ See also, [the list on my website](https://nichoth.com/list/)
 
 - [WIP](#wip)
   * [Thurs, Oct 3](#thurs-oct-3)
+  * [Hono Web application framework](#hono-web-application-framework)
   * [Web, Oct 2](#web-oct-2)
   * [Tues, Oct 1](#tues-oct-1)
   * [Mon, Sept 30, 2024](#mon-sept-30-2024)
