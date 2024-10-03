@@ -2,7 +2,12 @@
 
 [See discussions](https://github.com/nichoth/notes/discussions)
 
-See also, [the list on my website](https://nichoth.com/list/)
+## See also
+
+* [the list on my website](https://nichoth.com/list/)
+* [Every badge you might need](https://gist.github.com/nichoth/1fb086c5bee5cd189d66e0f87d1a4825)
+* [common tasks in node JS](https://gist.github.com/nichoth/35def0bf3e37fe0dd090f40bb3e43d9b)
+* [common tasks with `npm`](https://gist.github.com/nichoth/1f054534a8749cefe2034a199b588948)
 
 ## contents
 
