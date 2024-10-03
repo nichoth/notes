@@ -26,6 +26,12 @@ See also, [the list on my website](https://nichoth.com/list/)
 
 ## WIP
 
+### Thurs, Oct 3
+
+#JS #server
+
+* [Hono Web application framework](https://hono.dev/)
+
 ### Web, Oct 2
 
 #webcomponent

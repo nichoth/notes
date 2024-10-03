@@ -2,7 +2,7 @@
     "private": true,
     "version": "0.0.0",
     "scripts": {
-        "version": "npm run toc",
+        "version": "npm run toc && git add README.md",
         "postversion": "git push --follow-tags",
         "toc": "markdown-toc --maxdepth 3 -i README.md"
     },
