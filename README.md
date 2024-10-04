@@ -36,6 +36,11 @@
 
 ### Thurs, Oct 3, 2024
 
+#web
+
+* [What is atproto.com good for?](https://bnewbold.net/2022/atproto_thoughts/)
+
+
 #music
 
 * Alabaster DePlume
