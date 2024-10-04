@@ -34,6 +34,10 @@
 
 ## WIP
 
+## Fri, Oct 4, 2024
+
+* [Leader election in browser tabs, the easy way](https://greenvitriol.com/posts/browser-leader)
+
 ### Thurs, Oct 3, 2024
 
 #web
