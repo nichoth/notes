@@ -34,7 +34,16 @@
 
 ## WIP
 
-## Fri, Oct 4, 2024
+### Sat, Oct 5, 2024
+
+#CSS #web
+
+* [Conditionally loading resources with media queries](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link#conditionally_loading_resources_with_media_queries)
+
+Use a media query in the `link` tag, and separate the CSS by media query, so
+you only need to download the relevant CSS.
+
+### Fri, Oct 4, 2024
 
 #JS
 #web
