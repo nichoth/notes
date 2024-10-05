@@ -36,7 +36,18 @@
 
 ## Fri, Oct 4, 2024
 
+#JS
+#web
+#design
+
 * [Leader election in browser tabs, the easy way](https://greenvitriol.com/posts/browser-leader)
+* [component.gallery](https://component.gallery/)
+
+>
+> Designed to be a reference for anyone building component-based user
+> interfaces, The Component Gallery is an up-to-date repository of interface
+> components based on examples from the world of design systems.
+>
 
 ### Thurs, Oct 3, 2024
 
