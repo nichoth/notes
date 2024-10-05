@@ -38,6 +38,7 @@
 
 #CSS #web
 
+* [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance/)
 * [Conditionally loading resources with media queries](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link#conditionally_loading_resources_with_media_queries)
 
 Use a media query in the `link` tag, and separate the CSS by media query, so
