@@ -16,6 +16,7 @@
   + plus, [see this on the internet](https://blog.excalidraw.com/end-to-end-encryption/)
 - [End-to-End Encryption in Web Apps](https://cronokirby.com/posts/2021/06/e2e_in_the_browser/)
 - [some `vim` notes](./vim.md)
+- [loca-first notes from discord](./LOCAL_FIRST.md)
 
 <!-- toc -->
 
@@ -33,6 +34,10 @@
 <!-- tocstop -->
 
 ## WIP
+
+### Sun, Oct 6, 2024
+
+* add [local-first notes](./LOCAL_FIRST.md) from discord
 
 ### Sat, Oct 5, 2024
 
