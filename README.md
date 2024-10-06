@@ -37,7 +37,11 @@
 
 ### Sun, Oct 6, 2024
 
+#local-first
+#crypto
+
 * add [local-first notes](./LOCAL_FIRST.md) from discord
+* [rfc9420](https://github.com/mlswg/mls-protocol/blob/1a441b8af19f2dd6dc0b7301a9c788bb8985090f/rfc9420.md)
 
 ### Sat, Oct 5, 2024
 
