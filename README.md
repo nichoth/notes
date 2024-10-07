@@ -40,6 +40,7 @@
 #crypto
 
 * [Ed25519 to Curve25519](https://libsodium.gitbook.io/doc/advanced/ed25519-curve25519) -- that link from @getify.
+   - [An example in use](https://github.com/mylofi/local-data-lock/blob/ac2a28e64b6666d4bd6a142e97a71ad2745fe18a/src/ldl.js#L538)
 
 ### Sun, Oct 6, 2024
 
