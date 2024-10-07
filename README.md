@@ -35,6 +35,12 @@
 
 ## WIP
 
+### Mon, Oct 7, 2024
+
+#crypto
+
+* [Ed25519 to Curve25519](https://libsodium.gitbook.io/doc/advanced/ed25519-curve25519) -- that link from @getify.
+
 ### Sun, Oct 6, 2024
 
 #local-first
