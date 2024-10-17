@@ -22,6 +22,24 @@
 
 <!-- toc -->
 
+- [WIP](#wip)
+  * [Wed, Oct 16, 2024](#wed-oct-16-2024)
+  * [Mon, Oct 7, 2024](#mon-oct-7-2024)
+  * [Sun, Oct 6, 2024](#sun-oct-6-2024)
+  * [Sat, Oct 5, 2024](#sat-oct-5-2024)
+  * [Fri, Oct 4, 2024](#fri-oct-4-2024)
+  * [Thurs, Oct 3, 2024](#thurs-oct-3-2024)
+  * [Web, Oct 2, 2024](#web-oct-2-2024)
+  * [Tues, Oct 1, 2024](#tues-oct-1-2024)
+  * [Mon, Sept 30, 2024](#mon-sept-30-2024)
+  * [Web, Sept 18, 2024](#web-sept-18-2024)
+  * [Mon, Sept 16, 2024](#mon-sept-16-2024)
+- [changelog](#changelog)
+- [license](#license)
+- [June 9, 2024](#june-9-2024)
+
+<!-- tocstop -->
+
 </details>
 
 ## WIP
