@@ -26,6 +26,12 @@
 
 ## WIP
 
+### Wed, Oct 16, 2024
+
+#music
+
+* [Canbombe Cambá - Yamandu Costa e Martín Sued & Orquestra Assintomática](https://www.youtube.com/watch?v=6spG6w1Tfn8&ab_channel=YamanduCosta)
+
 ### Mon, Oct 7, 2024
 
 #crypto
