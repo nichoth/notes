@@ -9,7 +9,7 @@
 * [common tasks in node JS](https://gist.github.com/nichoth/35def0bf3e37fe0dd090f40bb3e43d9b)
 * [common tasks with `npm`](https://gist.github.com/nichoth/1f054534a8749cefe2034a199b588948)
 
-## contents
+## Some documents
 
 - [iroh](./IROH.md)
 - [e2ee](./End-to-End-Encryption-in-the-Browser.mht)
