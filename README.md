@@ -18,20 +18,11 @@
 - [some `vim` notes](./vim.md)
 - [loca-first notes from discord](./LOCAL_FIRST.md)
 
+<details><summary><h2>Contents</h2></summary>
+
 <!-- toc -->
 
-- [WIP](#wip)
-  * [Thurs, Oct 3, 2024](#thurs-oct-3-2024)
-  * [Web, Oct 2, 2024](#web-oct-2-2024)
-  * [Tues, Oct 1, 2024](#tues-oct-1-2024)
-  * [Mon, Sept 30, 2024](#mon-sept-30-2024)
-  * [Web, Sept 18, 2024](#web-sept-18-2024)
-  * [Mon, Sept 16, 2024](#mon-sept-16-2024)
-- [changelog](#changelog)
-- [license](#license)
-- [June 9, 2024](#june-9-2024)
-
-<!-- tocstop -->
+</details>
 
 ## WIP
 
