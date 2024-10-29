@@ -22,7 +22,10 @@
 
 <!-- toc -->
 
+- [patterns](#patterns)
+  * [The Baked Data architectural pattern](#the-baked-data-architectural-pattern)
 - [WIP](#wip)
+  * [Tues, 2024-10-29](#tues-2024-10-29)
   * [Wed, Oct 16, 2024](#wed-oct-16-2024)
   * [Mon, Oct 7, 2024](#mon-oct-7-2024)
   * [Sun, Oct 6, 2024](#sun-oct-6-2024)
@@ -42,7 +45,18 @@
 
 </details>
 
+## patterns
+
+### [The Baked Data architectural pattern](https://simonwillison.net/2021/Jul/28/baked-data/)
+
+> provides many of the advantages of static site generators while avoiding most of their limitations
+
+> Baked Data: bundling a read-only copy of your data alongside the code for your application, as part of the same deployment
+
+
 ## WIP
+
+### Tues, 2024-10-29
 
 ### Wed, Oct 16, 2024
 
