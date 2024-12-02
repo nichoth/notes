@@ -45,6 +45,12 @@
 
 </details>
 
+## Mon, Dec 2, 2024
+
+#CSS
+
+* [CSS frosted glass](https://www.joshwcomeau.com/css/backdrop-filter/)
+
 ## patterns
 
 ### [The Baked Data architectural pattern](https://simonwillison.net/2021/Jul/28/baked-data/)
