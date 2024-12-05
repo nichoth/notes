@@ -2,6 +2,15 @@
 
 [See discussions](https://github.com/nichoth/notes/discussions)
 
+## local first
+
+* [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
+* [Local First Academy](https://localfirstacademy.com/)
+* [localfirst.fm](https://www.localfirst.fm/) -- A podcast about local-first software development
+* [Johannes Schickling: Why Local-First? (Local-First Meetup Berlin #1)](https://youtu.be/jxuXGeMJsBU)
+* [Local-first news](https://www.localfirstnews.com/)
+
+
 ## See also
 
 * [the list on my website](https://nichoth.com/list/)
