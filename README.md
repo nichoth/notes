@@ -1,6 +1,21 @@
 # notes
 
+__Plus__
+
 [See discussions](https://github.com/nichoth/notes/discussions)
+
+--------------------------------------------------------------------------
+
+## WIP
+
+### 2024-12-22
+
+* [Web Authentication extensions](https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API/WebAuthn_extensions)
+
+> it lets a passkey be used not just for authentication but also for deriving
+> encryption keys for sensitive data on a site
+
+--------------------------------------------------------------------------
 
 ## local first
 
