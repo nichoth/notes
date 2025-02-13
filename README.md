@@ -7,6 +7,7 @@ __Plus__
 --------------------------------------------------------------------------
 
 
+
 ## vscode
 
 * `F7` / `Shift + F7` -- go to next matching Symbol
@@ -15,6 +16,16 @@ __Plus__
 -------------------------------------------------------------------------
 
 ## WIP
+
+### 2025-2-13
+
+#### some p2p
+
+* [A p2p Vision for QUIC](https://seemann.io/posts/2024-10-26---p2p-quic/)
+* __Everything you never knew about NATs and wish you hadn't asked__
+  - [part 1](https://educatedguesswork.org/posts/nat-part-1/)
+  - [part 2](https://educatedguesswork.org/posts/nat-part-2/)
+  - [part 3](https://educatedguesswork.org/posts/nat-part-3/)
 
 ### 2024-12-22
 
