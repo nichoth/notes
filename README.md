@@ -6,6 +6,23 @@ __Plus__
 
 --------------------------------------------------------------------------
 
+## 2025-02-14
+
+### p2p
+
+* [A p2p Vision for QUIC](https://seemann.io/posts/2024-10-26---p2p-quic/)
+
+#### Address Discovery using STUN
+
+> In a nutshell, a STUN client sends a "Binding Request" to a STUN server. The
+> "Binding Response" of the server encodes the IP source address and the source
+> port that the server observed on the client's request.
+
+
+#### Hole Punching Coordination using ICE
+
+> The traditional hole punching process is specified by ICE
+
 
 
 ## vscode
