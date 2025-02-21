@@ -6,6 +6,16 @@ __Plus__
 
 --------------------------------------------------------------------------
 
+## 2025-02-20
+
+### [My chaotic journey to find the right database](https://youtu.be/3gVBjTMS8FE)
+
+#### [The backend](https://youtu.be/3gVBjTMS8FE?t=1322)
+
+> We picked `dexi` for our local layer, and I need to put that data somewhere.
+> I picked an interesting place. Let's call this `redis V1`.
+
+
 ## 2025-02-14
 
 ### p2p
