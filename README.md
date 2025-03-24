@@ -4,6 +4,12 @@ __Plus__
 
 [See discussions](https://github.com/nichoth/notes/discussions)
 
+--------------
+
+## WIP
+
+* synapseapp.space
+
 --------------------------------------------------------------------------
 
 ## 2025-02-20
@@ -15,6 +21,9 @@ __Plus__
 > We picked `dexi` for our local layer, and I need to put that data somewhere.
 > I picked an interesting place. Let's call this `redis V1`.
 
+#### Tinybase
+
+* websocket sync layer
 
 ## 2025-02-14
 
