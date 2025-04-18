@@ -12,6 +12,15 @@ __Plus__
 
 --------------------------------------------------------------------------
 
+
+## 2025-04-28
+
+* [Tigris Data](https://www.tigrisdata.com/) -- a globally distributed
+  S3-compatible object storage service
+
+
+
+
 ## 2025-02-20
 
 ### [My chaotic journey to find the right database](https://youtu.be/3gVBjTMS8FE)
