@@ -1,19 +1,77 @@
 # notes
 
-__Plus__
+
+<details><summary><h2>Contents</h2></summary>
+
+<!-- toc -->
+
+- [discussions](#discussions)
+- [CSS](#css)
+  * [HUG pattern](#hug-pattern)
+- [2025-04-18](#2025-04-18)
+- [2025-04-18](#2025-04-18-1)
+- [2025-02-20](#2025-02-20)
+  * [My chaotic journey to find the right database](#my-chaotic-journey-to-find-the-right-database)
+- [2025-02-14](#2025-02-14)
+  * [p2p](#p2p)
+- [vscode](#vscode)
+- [WIP](#wip)
+  * [2025-2-13](#2025-2-13)
+  * [2024-12-22](#2024-12-22)
+- [local first](#local-first)
+- [See also](#see-also)
+- [Some documents](#some-documents)
+- [Mon, Dec 2, 2024](#mon-dec-2-2024)
+- [patterns](#patterns)
+  * [The Baked Data architectural pattern](#the-baked-data-architectural-pattern)
+- [WIP](#wip-1)
+  * [Tues, 2024-10-29](#tues-2024-10-29)
+  * [Wed, Oct 16, 2024](#wed-oct-16-2024)
+  * [Mon, Oct 7, 2024](#mon-oct-7-2024)
+  * [Sun, Oct 6, 2024](#sun-oct-6-2024)
+  * [Sat, Oct 5, 2024](#sat-oct-5-2024)
+  * [Fri, Oct 4, 2024](#fri-oct-4-2024)
+  * [Thurs, Oct 3, 2024](#thurs-oct-3-2024)
+  * [Web, Oct 2, 2024](#web-oct-2-2024)
+  * [Tues, Oct 1, 2024](#tues-oct-1-2024)
+  * [Mon, Sept 30, 2024](#mon-sept-30-2024)
+  * [Web, Sept 18, 2024](#web-sept-18-2024)
+  * [Mon, Sept 16, 2024](#mon-sept-16-2024)
+- [changelog](#changelog)
+- [license](#license)
+- [June 9, 2024](#june-9-2024)
+
+<!-- tocstop -->
+
+</details>
+
+
+## discussions
 
 [See discussions](https://github.com/nichoth/notes/discussions)
 
+## CSS
+
+### [HUG pattern](https://youtu.be/kKdH6QLQGFk)
+
+HUG is an acronym -- HTML, Utility class, Group classes
+
+Don't use many classes, eg Tailwind style, just add styles. Use the
+"cascade" of CSS.
+
+
 --------------
 
-## WIP
+## 2025-04-18
 
-* synapseapp.space
+* [a nice background color](https://intangible.ca/2025/02/05/what-you-can-do/)
 
---------------------------------------------------------------------------
+```css
+color:  #ffeaeb;
+```
 
 
-## 2025-04-28
+## 2025-04-18
 
 * [Tigris Data](https://www.tigrisdata.com/) -- a globally distributed
   S3-compatible object storage service
@@ -105,33 +163,6 @@ __Plus__
 - [End-to-End Encryption in Web Apps](https://cronokirby.com/posts/2021/06/e2e_in_the_browser/)
 - [some `vim` notes](./vim.md)
 - [loca-first notes from discord](./LOCAL_FIRST.md)
-
-<details><summary><h2>Contents</h2></summary>
-
-<!-- toc -->
-
-- [patterns](#patterns)
-  * [The Baked Data architectural pattern](#the-baked-data-architectural-pattern)
-- [WIP](#wip)
-  * [Tues, 2024-10-29](#tues-2024-10-29)
-  * [Wed, Oct 16, 2024](#wed-oct-16-2024)
-  * [Mon, Oct 7, 2024](#mon-oct-7-2024)
-  * [Sun, Oct 6, 2024](#sun-oct-6-2024)
-  * [Sat, Oct 5, 2024](#sat-oct-5-2024)
-  * [Fri, Oct 4, 2024](#fri-oct-4-2024)
-  * [Thurs, Oct 3, 2024](#thurs-oct-3-2024)
-  * [Web, Oct 2, 2024](#web-oct-2-2024)
-  * [Tues, Oct 1, 2024](#tues-oct-1-2024)
-  * [Mon, Sept 30, 2024](#mon-sept-30-2024)
-  * [Web, Sept 18, 2024](#web-sept-18-2024)
-  * [Mon, Sept 16, 2024](#mon-sept-16-2024)
-- [changelog](#changelog)
-- [license](#license)
-- [June 9, 2024](#june-9-2024)
-
-<!-- tocstop -->
-
-</details>
 
 ## Mon, Dec 2, 2024
 
