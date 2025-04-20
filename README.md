@@ -59,8 +59,12 @@ HUG is an acronym -- HTML, Utility class, Group classes
 Don't use many classes, eg Tailwind style, just add styles. Use the
 "cascade" of CSS.
 
+Group classes -- for when you have multiple utility classes that are applied in
+multiple places. Should be intuitive.
+
 
 --------------
+
 
 ## 2025-04-18
 
