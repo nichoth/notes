@@ -52,6 +52,23 @@
 
 ## CSS
 
+### [mol Responsive CSS Grid](https://smolcss.dev/#smol-css-grid)
+
+> Create an intrinsically responsive grid layout
+
+```css
+.smol-css-grid {
+  --min: 15ch;
+  --gap: 1rem;
+
+  display: grid;
+  grid-gap: var(--gap);
+  /* min() with 100% prevents overflow
+  in extra narrow spaces */
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--min)), 1fr));
+}
+```
+
 ### [HUG pattern](https://youtu.be/kKdH6QLQGFk)
 
 HUG is an acronym -- HTML, Utility class, Group classes
